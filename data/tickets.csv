@@ -1,0 +1,501 @@
+ticket_id,customer_id,created_at,category,priority,status,message
+TICK_00001,CUST_031,2024-08-10T17:38:00,feature_request,medium,closed,Een optie om gebruikersrechten per project toe te wijzen zou onze workflow verbeteren.
+TICK_00002,CUST_118,2024-09-23T09:18:00,general,medium,in_progress,Wat zijn de mogelijkheden om notificaties aan te passen binnen de software? Ik hoor graag meer over de opties.
+TICK_00003,CUST_086,2024-09-04T15:29:00,technical,low,open,"We merken dat de software soms wat traag reageert, vooral tijdens het laden van rapporten. Is hier een bekende oorzaak voor?"
+TICK_00004,CUST_038,2024-08-25T09:48:00,overig,medium,in_progress,"Goedemiddag, kunnen jullie me vertellen hoe lang de gebruikerstijd wordt bijgehouden binnen het platform?"
+TICK_00005,CUST_096,2024-08-01T09:17:00,Login,low,closed,"Ik wil graag mijn accountgegevens bijwerken, maar ik vind de juiste pagina niet terug. Waar kan ik dit doen?"
+TICK_00006,CUST_007,2024-09-11T15:17:00,invoice,low,open,De facturen in ons account tonen dubbele kosten voor de afgelopen periode. Dit is verwarrend en heeft gevolgen voor onze interne budgettering. Wilt u dit nakijken en corrigeren?
+TICK_00007,CUST_077,2024-07-26T13:14:00,feature_request,low,resolved,Het zou fijn zijn als er een optie komt om klantprofielen te taggen voor snellere filtering. Hebben jullie zo'n functie wellicht al op de planning?
+TICK_00008,CUST_079,2024-08-06T12:44:00,Bug,low,closed,"Ik merk dat de update van vorige week geen problemen oplevert, werkt soepel hier."
+TICK_00009,CUST_088,2024-09-23T09:46:00,general,medium,resolved,Kunt u me uitleggen welke trainingen Pippify aanbiedt voor nieuwe gebruikers? Ik wil graag goed voorbereid aan de slag.
+TICK_00010,CUST_054,2024-07-24T10:40:00,Facturatie,low,resolved,"Er is een fout in de facturatiesoftware die het hele betalingsproces blokkeert. Dit leidt tot vertragingen en een klant die dreigt weg te lopen, graag spoedige oplossing voor vandaag."
+TICK_00011,CUST_084,2024-08-15T11:42:00,General,low,open,Zijn er aanbevelingen voor het optimaliseren van de workflow binnen Pippify voor ons soort werkzaamheden?
+TICK_00012,CUST_070,2024-08-25T09:50:00,Bug,medium,resolved,"De exportfunctie werkt niet zoals verwacht, met name bij grote datasets is dit problematisch."
+TICK_00013,CUST_042,2024-07-25T15:14:00,Login,medium,in_progress,"Mijn account is geblokkeerd zonder duidelijke reden. Ik heb geen meldingen ontvangen over eventuele problemen, kunt u dit zo snel mogelijk oplossen?"
+TICK_00014,CUST_091,2024-08-23T14:21:00,invoice,low,in_progress,"Ik zie dat de laatste factuur niet klopt met onze afgenomen diensten, kunt u dit controleren?"
+TICK_00015,CUST_114,2024-07-02T11:59:00,General,low,in_progress,Wat zijn de belangrijkste voordelen van het nieuwe software-updatepakket dat jullie onlangs hebben uitgebracht?
+TICK_00016,CUST_061,2024-07-29T12:43:00,account,high,closed,"Ik krijg herhaaldelijk foutmeldingen bij het inloggen, terwijl mijn wachtwoord zeker correct is. Dit moet met spoed opgelost worden."
+TICK_00017,CUST_018,2024-08-19T09:46:00,Technical Support,low,resolved,"The app crashes sporadically when I try to open the Analytics tab, especially after the latest update. Wat kan ik doen?"
+TICK_00018,CUST_037,2024-07-17T17:36:00,Account Management,low,resolved,Kan ik mijn gebruikersgegevens eenvoudig aanpassen via het dashboard? Ik wil mijn telefoonnummer bijwerken.
+TICK_00019,CUST_056,2024-08-22T16:49:00,billing,medium,in_progress,We hebben een vraag over de betalingstermijn op onze factuur van vorige maand. Is er ruimte voor verlenging?
+TICK_00020,CUST_042,2024-08-08T10:43:00,account,medium,in_progress,"Zoals ik al eerder meldde, is mijn account nog steeds geblokkeerd en niet toegankelijk. Dit is zeer frustrerend en zorgt voor vertragingen in onze processen."
+TICK_00021,CUST_022,2024-07-12T18:23:00,general,medium,resolved,"Iets meer uitleg over hoe de new notifications work zou fijn zijn, want ik begrijp niet helemaal wanneer ik alerts krijg."
+TICK_00022,CUST_050,2024-07-22T08:25:00,account,high,resolved,Mijn account is locked en ik heb dringend toegang nodig voor de end-of-day reporting. Could you unlock it asap?
+TICK_00023,CUST_059,2024-08-10T18:22:00,overig,medium,resolved,Kunnen jullie aangeven of er aanstaande wijzigingen in de gebruikersvoorwaarden zijn? Ik wil graag goed geïnformeerd blijven.
+TICK_00024,CUST_040,2024-08-24T16:24:00,technical,medium,resolved,Soms loopt de software vast bij het uploaden van bestanden; misschien een bug?
+TICK_00025,CUST_061,2024-07-25T14:31:00,technical,medium,resolved,"De synchronisatie met onze kalender werkt niet meer sinds kort, kunnen jullie dit nakijken?"
+TICK_00026,CUST_091,2024-07-23T16:10:00,,high,resolved,"Belangrijk: onze integratie met de CRM werkt niet meer sinds vanochtend, graag snelle assistentie."
+TICK_00027,CUST_114,2024-07-19T09:33:00,Billing,high,resolved,"Mijn credit card is ten onrechte belast voor een service upgrade die ik niet heb aangevraagd, graag spoedige correctie."
+TICK_00028,CUST_089,2024-09-24T12:02:00,account,medium,open,Ik heb mijn account al een paar weken niet kunnen gebruiken door een foutmelding bij het inloggen. Graag hulp.
+TICK_00029,CUST_085,2024-09-01T09:27:00,Tech,high,closed,"Onze workflow ligt stil omdat de software niet meer opstart; dit is urgent, graag spoedige hulp."
+TICK_00030,CUST_066,2024-09-03T15:17:00,general,low,open,Is er een handleiding beschikbaar voor het aanmaken van aangepaste rapporten binnen de software? Dank alvast voor de informatie.
+TICK_00031,CUST_047,2024-09-15T16:10:00,Login,,open,Hoe wijzig ik mijn accountgegevens zoals e-mail en wachtwoord?
+TICK_00032,CUST_097,2024-09-25T11:11:00,Tech,low,in_progress,"De app reageert de laatste tijd wat traag, maar het beïnvloedt onze werkzaamheden niet direct. Wat kan ik hieraan doen?"
+TICK_00033,CUST_030,2024-09-05T16:37:00,Facturatie,low,in_progress,De factuur die we hebben ontvangen klopt niet en dat veroorzaakt vertraging bij de betaling. Dit is al de tweede keer dat dit voorkomt en onze klant dreigt hierdoor weg te lopen.
+TICK_00034,CUST_002,2024-08-17T18:47:00,technical,low,in_progress,Klopt het dat er vandaag gepland onderhoud is? Ik merk dat sommige functies tijdelijk niet beschikbaar zijn.
+TICK_00035,CUST_029,2024-09-10T11:45:00,Bug,medium,in_progress,Sinds de laatste update lukt het niet meer om rapporten te exporteren. Kunt u dit probleem onderzoeken?
+TICK_00036,CUST_080,2024-08-06T15:41:00,billing,high,resolved,We hebben dringend hulp nodig met een fout op onze factuur; het bedrag is twee keer in rekening gebracht en dit blokkeert onze betaling.
+TICK_00037,CUST_042,2024-08-16T18:24:00,billing,medium,in_progress,Ik heb nu al meerdere keren aangegeven dat er iets mis is met de facturatie. Wanneer kan ik een correcte factuur verwachten? Dit is echt niet acceptabel.
+TICK_00038,CUST_056,2024-07-23T17:36:00,Login,low,resolved,Ik wilde even navragen hoe ik mijn gebruikersprofiel kan aanpassen wanneer dat nodig is.
+TICK_00039,CUST_008,2024-09-23T14:31:00,account,low,in_progress,Is het mogelijk om extra gebruikers toe te voegen aan ons account? Hoe werkt dat precies?
+TICK_00040,CUST_089,2024-07-04T09:56:00,general,medium,closed,Wat is de beste manier om nieuwe gebruikers te trainen binnen Pippify? Zijn er trainingsmodules of webinars beschikbaar?
+TICK_00041,CUST_065,2024-08-22T08:01:00,billing,medium,in_progress,"We zouden graag een specificatie ontvangen van de factuur die we vorige week ontvingen, zodat we dit intern kunnen verifiëren."
+TICK_00042,CUST_003,2024-08-14T11:41:00,wens,low,open,Een exportfunctie naar Excel met extra filtermogelijkheden zou onze workflow zeker versnellen.
+TICK_00043,CUST_088,2024-09-07T14:13:00,wens,low,closed,"Ik zou graag zien dat de Dashboard widget meer customizable wordt, so users can adjust the layout and colors easily."
+TICK_00044,CUST_031,2024-09-15T08:17:00,Tech,low,resolved,"Mijn dashboard laadt soms erg traag, hebben jullie hier tips voor de performance?"
+TICK_00045,CUST_014,2024-07-14T11:12:00,Facturatie,medium,in_progress,De kosten op mijn factuur lijken hoger dan verwacht; kunt u specificeren welke extra diensten zijn toegevoegd?
+TICK_00046,CUST_020,2024-07-14T14:14:00,account,low,in_progress,Is het mogelijk om extra gebruikers toe te voegen aan ons account? Hoe werkt dat precies?
+TICK_00047,CUST_084,2024-08-01T11:08:00,billing,medium,resolved,Bij het controleren van onze factuur viel me op dat er een onjuist bedrag is doorberekend. Zou u dit kunnen nakijken?
+TICK_00048,CUST_062,2024-09-20T16:14:00,technical,high,in_progress,"De software crasht telkens als ik probeer een grote dataset te uploaden. Dit is urgent, want het stopt onze werkzaamheden volledig."
+TICK_00049,CUST_021,2024-08-06T17:33:00,general,low,in_progress,"Na gisteren de software-update geïnstalleerd te hebben, kan ik niet meer inloggen. De verificatiecode die mijn app geeft wordt niet geaccepteerd, terwijl ik zeker weet dat ik de juiste code invul."
+TICK_00050,CUST_050,2024-09-06T08:38:00,wens,medium,open,Zou het mogelijk zijn om een optie toe te voegen waarmee we rapporten automatisch kunnen exporteren? Dit zou ons dagelijks werk een stuk efficiënter maken.
+TICK_00051,CUST_086,2024-09-25T11:32:00,Tech,medium,in_progress,"Tijdens het aanmaken van nieuwe projecten krijg ik steeds een foutmelding bij het opslaan, wat kunnen we hieraan doen?"
+TICK_00052,CUST_026,2024-08-28T09:42:00,general,high,open,We ervaren op dit moment een storing in het systeem die onze workflows blokkeert. Graag spoedige hulp.
+TICK_00053,CUST_076,2024-09-25T12:36:00,Account Management,low,open,Kunnen jullie de accountverificatie misschien iets minder streng maken? Het is soms wat omslachtig.
+TICK_00054,CUST_042,2024-08-19T17:18:00,invoice,medium,open,Dit is niet acceptabel. Ik overweeg serieus om onze diensten bij Pippify op te zeggen als dit probleem niet per direct wordt opgelost.
+TICK_00055,CUST_018,2024-09-09T13:24:00,technical,medium,closed,Sinds de laatste update loopt het programma regelmatig vast bij het importeren van gegevens.
+TICK_00056,CUST_050,2024-07-17T08:19:00,account,low,resolved,Zou ik kunnen weten hoe ik mijn wachtwoord kan wijzigen zonder dat mijn account tijdelijk geblokkeerd wordt?
+TICK_00057,CUST_112,2024-08-30T14:24:00,wens,low,closed,Het zou geweldig zijn als er een optie komt om rapporten automatisch te plannen en te verzenden per e-mail.
+TICK_00058,CUST_070,2024-07-02T18:46:00,Technical Support,medium,in_progress,"Na de update zie ik dat sommige functionaliteiten niet meer beschikbaar zijn in de mobiele app, is dat tijdelijk?"
+TICK_00059,CUST_004,2024-09-27T12:01:00,Account Management,medium,open,Is het mogelijk om mijn gebruikersrol aan te passen? Ik heb meer rechten nodig voor bepaalde functies.
+TICK_00060,CUST_092,2024-08-01T09:29:00,account,low,in_progress,Wij willen graag weten hoe we onze accountgegevens kunnen bijwerken als dat nodig is.
+TICK_00061,CUST_059,2024-08-13T09:55:00,invoice,high,resolved,"Urgent: my subscription renewal was processed twice, leading to double billing. Please rectify this as soon as possible!"
+TICK_00062,CUST_024,2024-09-28T15:40:00,general,medium,open,Is er een FAQ-sectie waar we snel antwoorden kunnen vinden op veelgestelde vragen over de software?
+TICK_00063,CUST_072,2024-08-14T10:18:00,technical,high,open,"Het systeem weigert steeds toegang te geven tot ons teamaccount tijdens piekuren, wat onze workflow ernstig belemmert."
+TICK_00064,CUST_076,2024-09-06T08:55:00,wens,low,resolved,Ik zou graag zien dat er een optie komt om standaard filters op te slaan binnen het dashboard. Zo hoeven we de filters niet steeds opnieuw in te stellen bij ieder gebruik.
+TICK_00065,CUST_062,2024-09-15T13:48:00,account,high,resolved,"Mijn account is geblokkeerd na meerdere mislukte inlogpogingen, ik heb dringend toegang nodig, graag spoed."
+TICK_00066,CUST_103,2024-07-20T11:18:00,account,medium,in_progress,Ik kan niet meer inloggen sinds de laatste wijziging; mijn oude wachtwoord wordt niet geaccepteerd. Graag assistentie zo snel mogelijk.
+TICK_00067,CUST_053,2024-09-17T11:28:00,technical,low,in_progress,De technische infrastructuur vertoont ernstige fouten waardoor de productie stil ligt. We verliezen data en moeten dit vandaag nog voor 17:00 opgelost zien.
+TICK_00068,CUST_011,2024-09-11T09:04:00,billing,medium,in_progress,Ik zie een onverwachte factuurpost op mijn account. Kunt u deze specificeren en ons facturatiesysteem nalopen?
+TICK_00069,CUST_057,2024-08-09T10:13:00,account,low,resolved,Kan ik meerdere e-mailadressen aan mijn account koppelen zodat ik meldingen op verschillende inboxen ontvang?
+TICK_00070,CUST_007,2024-07-02T10:05:00,Facturatie,low,resolved,Onze afrekening van deze maand lijkt een onverwachte opslag te bevatten die niet overeenkomt met ons contract. Wilt u dit kunnen nakijken en toelichten? Een tijdige opheldering voorkomt administratieve vertragingen.
+TICK_00071,CUST_025,2024-09-21T14:23:00,feature,medium,closed,Het zou handig zijn als jullie een exportfunctie toevoegen voor rapportages in CSV-formaat.
+TICK_00072,CUST_041,2024-09-29T12:44:00,invoice,medium,open,De factuur vermeldt een verkeerd klantnummer. Kunt u dit corrigeren zodat onze administratie klopt?
+TICK_00073,CUST_016,2024-09-05T14:58:00,Facturatie,low,in_progress,We zouden graag een uitleg ontvangen over de jaarlijkse facturatie-opties binnen Pippify.
+TICK_00074,CUST_081,2024-07-22T17:37:00,account,medium,in_progress,Mijn collega kan niet inloggen met zijn standaardgegevens; zouden jullie dit kunnen controleren?
+TICK_00075,CUST_063,2024-07-08T10:33:00,general,medium,in_progress,Hoe kan ik mijn notificatie-instellingen aanpassen? Ik ontvang momenteel te veel e-mails van het platform.
+TICK_00076,CUST_006,2024-07-25T13:35:00,Bug,medium,resolved,Er lijkt een bug te zijn bij het exporteren van gegevens; sommige velden worden niet meegenomen.
+TICK_00077,CUST_066,2024-08-04T09:46:00,technical,medium,resolved,Tijdens het gebruik van rapportages krijg ik foutmeldingen die ik niet kan verklaren. Wat kan ik hieraan doen?
+TICK_00078,CUST_067,2024-08-21T12:35:00,technical,medium,open,"Sinds de laatste update ervaart onze afdeling vertraging bij het laden van dashboards, is hier een oplossing voor?"
+TICK_00079,CUST_088,2024-09-06T18:20:00,,high,in_progress,Onze workflow is momenteel volledig geblokkeerd door een fout in het systeem. Graag spoedige oplossing.
+TICK_00080,CUST_065,2024-09-11T08:50:00,,low,resolved,Kan ik mijn gebruikersprofiel aanpassen om notificaties uit te zetten?
+TICK_00081,CUST_065,2024-07-09T11:40:00,general,low,resolved,"Hallo, ik vroeg me af of er binnenkort nog updates gepland staan voor Pippify's dashboard? Dank voor de info!"
+TICK_00082,CUST_069,2024-08-26T09:45:00,Technical Support,low,open,"Het werkt allemaal prima, alleen vroeg ik me af of er binnenkort een update gepland staat met nieuwe features."
+TICK_00083,CUST_120,2024-09-22T10:44:00,billing,medium,resolved,"Help, ik kom er niet meer in."
+TICK_00084,CUST_089,2024-09-10T13:05:00,General,high,resolved,"We hebben onmiddellijk toegang tot ons account nodig, momenteel zitten we volledig vast zonder toegang."
+TICK_00085,CUST_040,2024-09-27T15:20:00,feature_request,medium,in_progress,Een suggestie: kunnen jullie een integratie toevoegen met onze kalenderapplicatie? Dat zou de planning eenvoudiger maken.
+TICK_00086,CUST_119,2024-07-04T09:41:00,technical,medium,resolved,"We ondervinden regelmatig dat de synchronisatie met onze kalender niet altijd vlekkeloos loopt, kunt u dit nakijken?"
+TICK_00087,CUST_037,2024-08-26T15:15:00,Billing,low,resolved,Is het mogelijk om facturen ook per kwartaal te ontvangen in plaats van maandelijks?
+TICK_00088,CUST_036,2024-08-11T09:46:00,overig,low,closed,"Ik ondervind inlogproblemen met de authenticatie via mijn twee-factor app. De codes lijken correct, maar de website geeft aan dat authenticatie mislukt. Hebben jullie hier een oplossing voor?"
+TICK_00089,CUST_104,2024-09-19T08:38:00,General,high,in_progress,We hebben vandaag dringend assistentie nodig bij het interpreteren van de nieuwe API-documentatie. Kunnen jullie snel iets regelen?
+TICK_00090,CUST_035,2024-07-28T17:18:00,wens,medium,resolved,Zou het mogelijk zijn om een exportfunctie voor onze projectdata toe te voegen? Dit zou ons veel werk schelen.
+TICK_00091,CUST_085,2024-07-10T18:03:00,General,medium,closed,Is er een plek waar we vaak gestelde vragen kunnen raadplegen? Dat zou ons erg helpen bij het zelfstandig oplossen van kleine issues.
+TICK_00092,CUST_017,2024-07-31T11:51:00,feature_request,,resolved,Kunnen jullie overwegen om een dark mode aan de software toe te voegen?
+TICK_00093,CUST_107,2024-07-19T18:33:00,Bug,low,in_progress,"Het systeem reageert traag bij het openen van dashboards, heeft dit een bekende oorzaak?"
+TICK_00094,CUST_094,2024-09-22T12:47:00,Facturatie,high,in_progress,We hebben een dringende facturatiekwestie: er is een dubbele afschrijving gedaan en dit moet vandaag nog worden opgelost.
+TICK_00095,CUST_073,2024-08-29T11:28:00,Technical Support,low,resolved,"Het systeem crasht telkens bij het verwerken van data, waardoor de productie stil komt te liggen. Klantverwachting is dat dit voor morgen om 9:00 hersteld is, anders riskeren we contractverlies."
+TICK_00096,CUST_023,2024-07-15T18:13:00,Bug,medium,resolved,Na de update krijg ik foutmeldingen bij het exporteren van data. Kunt u aangeven hoe we dit kunnen oplossen?
+TICK_00097,CUST_115,2024-07-01T13:19:00,Feature Request,medium,closed,"Een geïntegreerde chatfunctie in de app zou onze communicatie enorm verbeteren, kunnen jullie dit overwegen?"
+TICK_00098,CUST_027,2024-08-30T17:54:00,billing,low,resolved,Kunt u bevestigen wanneer de factuur voor deze maand verstuurd wordt? We willen graag op tijd betalen.
+TICK_00099,CUST_081,2024-09-11T18:43:00,technical,low,in_progress,"De software crasht bij elke poging om klantdata te behandelen, waardoor we belangrijke deadlines missen. Onze klant verwacht vandaag een update en dit probleem moet daarom nú opgelost worden."
+TICK_00100,CUST_071,2024-09-13T14:23:00,technical,medium,open,De zoekfunctie werkt niet altijd even precies; soms worden relevante items niet gevonden. Is hier een oplossing voor?
+TICK_00101,CUST_030,2024-07-04T14:03:00,feature_request,high,resolved,"We willen graag een real-time notificatiefunctie voor belangrijke meldingen in de software, dat zou onze opvolging verbeteren."
+TICK_00102,CUST_084,2024-07-31T12:42:00,account,low,in_progress,Ik kan niet inloggen in ons account en heb dit gisteren al gemeld zonder reactie. Voor het begin van de werkdag morgen moeten mijn collega’s en ik toegang hebben.
+TICK_00103,CUST_116,2024-09-21T13:07:00,account,low,open,Ik wil mijn wachtwoord wijzigen maar krijg geen bevestigingsmail. Is er een andere manier om dit te regelen?
+TICK_00104,CUST_074,2024-08-05T12:07:00,General,medium,resolved,Ik heb een algemene vraag over de veiligheidsmaatregelen binnen jullie software. Kunnen jullie wat details delen?
+TICK_00105,CUST_066,2024-08-07T08:00:00,invoice,medium,resolved,Ik heb een vraag over de factuur van deze maand; er lijken extra kosten berekend te zijn die ik niet kan verklaren. Kunt u dit controleren?
+TICK_00106,CUST_104,2024-08-15T11:43:00,General,low,open,Wat zijn de aankomende updates die gepland staan voor Pippify? We horen graag wat er op de roadmap staat.
+TICK_00107,CUST_053,2024-07-28T17:22:00,account,high,open,"Mijn account is geblokkeerd en ik kan me niet aanmelden, dit blokkeert mijn werkzaamheden. Graag spoedige hulp."
+TICK_00108,CUST_063,2024-08-27T09:51:00,Account Management,high,resolved,"Ik kan mijn wachtwoord resetten, maar ontvang geen e-mail om het nieuwe wachtwoord in te stellen. Graag snel hulp!"
+TICK_00109,CUST_005,2024-07-23T08:53:00,General,low,resolved,Kunt u me uitleggen hoe ik de laatste update van de software kan installeren? Ik wil er zeker van zijn dat ik de nieuwste versie gebruik.
+TICK_00110,CUST_099,2024-08-26T12:11:00,billing,medium,closed,Kunt u de factuur van deze maand nogmaals sturen? Ik zie een afwijking in het totaalbedrag.
+TICK_00111,CUST_087,2024-07-07T11:33:00,general,medium,resolved,Is er een handleiding beschikbaar waarin de basisfunctionaliteiten van Pippify worden uitgelegd?
+TICK_00112,CUST_049,2024-08-08T13:28:00,Technical Support,low,resolved,"Authenticatie mislukt telkens als ik probeer in te loggen met de verificatiecode uit mijn authenticator-app. Heb al de tijd en datum gecontroleerd, maar het probleem blijft."
+TICK_00113,CUST_016,2024-09-21T12:45:00,Bug,medium,open,We ervaren vertragingen bij het laden van rapporten sinds de laatste update. Kunt u dit onderzoeken en een oplossing bieden?
+TICK_00114,CUST_018,2024-09-09T10:16:00,Facturatie,medium,in_progress,"Er lijkt een fout te staan op onze laatste factuur, zou u deze kunnen nakijken en aanpassen indien nodig?"
+TICK_00115,CUST_066,2024-09-01T14:45:00,,medium,resolved,"Tijdens het invoeren van data loopt het programma soms vast, dit vertraagt ons werk."
+TICK_00116,CUST_073,2024-07-21T18:11:00,Login,high,closed,"Onze gebruikers kunnen niet meer inloggen, wat de workflow stillegt. Dit is echt urgent, graag spoedige oplossing."
+TICK_00117,CUST_114,2024-09-05T09:18:00,technical,high,open,Onze workflow wordt ernstig gehinderd door een foutmelding bij het opslaan van gegevens. Graag spoedige oplossing!
+TICK_00118,CUST_018,2024-09-26T16:05:00,Login,high,in_progress,"Ik krijg constant melding dat mijn sessie is verlopen, terwijl ik net ben ingelogd. Dit blokkeert mijn werk."
+TICK_00119,CUST_059,2024-08-02T15:07:00,technical,high,closed,"Het dashboard laadt helemaal niet meer, wat erg urgent is voor onze dagelijkse rapportages."
+TICK_00120,CUST_010,2024-07-31T14:07:00,account,medium,closed,Mijn collega kan geen toegang krijgen tot bepaalde functies ondanks dat zijn rol dit zou moeten toelaten. Kunt u dit controleren?
+TICK_00121,CUST_070,2024-08-14T13:46:00,Account Management,high,closed,Mijn account is ineens geblokkeerd en ik kan niet meer inloggen. Kunnen jullie dit met spoed oplossen?
+TICK_00122,CUST_084,2024-08-08T18:26:00,wens,high,in_progress,We zouden echt direct baat hebben bij een functie die automatische rapportages genereert. Kan dit als prioriteit opgepakt worden?
+TICK_00123,CUST_081,2024-08-05T16:19:00,technical,high,in_progress,De software is onbruikbaar voor ons op dit moment omdat het laden van gegevens steeds stopt zonder melding. Graag spoedige hulp.
+TICK_00124,CUST_089,2024-08-10T18:45:00,General,medium,closed,Kunnen jullie een overzicht geven van de nieuwste updates en verbeteringen die zijn doorgevoerd?
+TICK_00125,CUST_059,2024-09-17T10:23:00,general,medium,open,Is er een kennisbank of handleiding beschikbaar waar ik zelf dingen kan opzoeken? Dat zou handig zijn.
+TICK_00126,CUST_112,2024-08-19T15:37:00,billing,medium,in_progress,Klopt het dat de factuur voor deze maand hoger is dan normaals? Ik zou graag een specificatie ontvangen.
+TICK_00127,CUST_094,2024-08-07T15:09:00,technical,low,open,"Goedemiddag, mijn twee-factor authenticatie faalt steeds bij het inloggen. Ik heb mijn telefoon al opnieuw opgestart en de app opnieuw geïnstalleerd, maar ik krijg nog steeds een foutmelding dat de code ongeldig is."
+TICK_00128,CUST_111,2024-09-18T17:43:00,Account Management,medium,in_progress,Ik krijg een melding dat mijn account tijdelijk geblokkeerd is na meerdere mislukte inlogpogingen. Wat kan ik doen?
+TICK_00129,CUST_027,2024-09-21T10:58:00,technical,medium,open,"Na het laatste onderhoud werkt de synchronisatie met onze CRM niet meer goed, kunt u dit nakijken?"
+TICK_00130,CUST_115,2024-08-06T13:18:00,technical,medium,resolved,Sinds kort loopt het systeem bij het verwerken van batchtaken opvallend vaak vast. Graag advies of een update.
+TICK_00131,CUST_103,2024-07-13T09:42:00,Technical Support,medium,resolved,"Bij het uploaden van bestanden krijg ik regelmatig een time-out fout, kunt u dit onderzoeken?"
+TICK_00132,CUST_064,2024-09-06T17:18:00,technical,medium,closed,Sinds de update werkt de zoekfunctie niet meer naar behoren. Dit belemmert onze workflow.
+TICK_00133,CUST_015,2024-09-22T11:19:00,feature,,resolved,Zou het handig zijn om een optie te hebben waarmee je automatisch backups kunt plannen.
+TICK_00134,CUST_047,2024-08-15T17:27:00,technical,medium,open,"Het synchroniseren van onze data verloopt niet soepel, vooral bij grotere datasets. Kunnen jullie hiernaar kijken?"
+TICK_00135,CUST_032,2024-07-02T16:26:00,wens,low,open,Het zou handig zijn als er een optie komt om meerdere gebruikers tegelijk te kunnen toevoegen aan een project.
+TICK_00136,CUST_015,2024-08-22T17:47:00,technical,medium,open,"De exportfunctie werkt niet altijd vloeiend, soms ontbreken er kolommen in het gegenereerde rapport. Kunnen jullie hier naar kijken?"
+TICK_00137,CUST_094,2024-07-11T13:38:00,overig,low,in_progress,Ik wil graag weten welke beveiligingsprotocollen Pippify hanteert voor dataopslag.
+TICK_00138,CUST_075,2024-09-01T09:48:00,general,low,in_progress,Ik ben nieuw met Pippify en wilde vragen of er een introductievideo of handleiding beschikbaar is die me op weg kan helpen.
+TICK_00139,CUST_104,2024-08-19T14:38:00,wens,medium,closed,Een filtermogelijkheid om taken te sorteren op prioriteit zou onze workflow echt verbeteren. Ziet u mogelijkheden om dit toe te voegen?
+TICK_00140,CUST_072,2024-09-21T11:18:00,technical,low,open,Sinds de update merk ik dat het dashboard soms traag reageert. Is dit bij jullie bekend?
+TICK_00141,CUST_026,2024-07-01T16:59:00,technical,medium,closed,We merken dat de software bij het uploaden van bestanden regelmatig vastloopt. Kunnen jullie hiernaar kijken?
+TICK_00142,CUST_102,2024-07-07T10:10:00,general,medium,closed,"Kun je me uitleggen hoe ik de nieuwe integratie met onze CRM kan activeren? Ik zie de optie wel, maar het is niet duidelijk."
+TICK_00143,CUST_019,2024-08-17T18:26:00,Technical Support,low,in_progress,"Sinds gisteren kan ik niet meer inloggen op mijn account. Elke keer krijg ik de melding dat mijn wachtwoord onjuist is, terwijl ik zeker weet dat het klopt. Kunt u dit nakijken?"
+TICK_00144,CUST_086,2024-08-01T11:53:00,Billing,low,open,Kunnen jullie bevestigen wanneer de volgende factuur wordt verzonden? We plannen onze budgetten hierop.
+TICK_00145,CUST_118,2024-07-20T16:46:00,billing,low,resolved,Kunnen jullie bevestigen of het mogelijk is om facturen per kwartaal in plaats van per maand te ontvangen?
+TICK_00146,CUST_102,2024-08-04T09:51:00,Facturatie,medium,resolved,We zien een afwijking in onze facturatie van deze maand. Kunnen jullie dit controleren en bevestigen?
+TICK_00147,CUST_003,2024-08-09T11:03:00,billing,low,in_progress,Kunt u bevestigen wanneer de factuur voor deze maand wordt verzonden? We willen onze administratie graag op tijd afronden.
+TICK_00148,CUST_021,2024-07-23T18:31:00,wens,medium,resolved,We zouden graag zien dat er een optie komt om meerdere gebruikersrollen binnen één account te beheren.
+TICK_00149,CUST_097,2024-08-15T16:21:00,feature,low,resolved,Het zou fijn zijn als er een optie komt om notities toe te voegen aan individuele taken binnen projecten.
+TICK_00150,CUST_001,2024-08-07T10:25:00,Account Management,low,closed,De verificatiecode die mijn authenticator-app genereert wordt niet geaccepteerd bij het inloggen. Ik heb al geprobeerd mijn account te resetten maar zonder positief resultaat.
+TICK_00151,CUST_014,2024-08-03T08:46:00,Tech,low,resolved,"De app lijkt soms vast te lopen bij het bewerken van grote datasets, maar dit gebeurt niet vaak. Heeft u hier tips voor?"
+TICK_00152,CUST_084,2024-07-02T17:18:00,general,medium,resolved,Ik vroeg me af of er binnenkort trainingen gepland staan voor nieuwe functies binnen Pippify?
+TICK_00153,CUST_035,2024-08-08T15:20:00,technical,medium,closed,Sinds de laatste update ervaar ik lichte vertragingen bij het laden van rapporten. Heeft u dit ook bij andere gebruikers gezien?
+TICK_00154,CUST_019,2024-07-07T09:09:00,account,low,resolved,"Voor mijn nieuwe collega wil ik graag een extra account aanmaken, hoe pak ik dat eenvoudig aan?"
+TICK_00155,CUST_019,2024-08-27T17:03:00,,low,resolved,Even een korte vraag: is er een manier om de taalinstellingen aan te passen?
+TICK_00156,CUST_033,2024-07-25T09:02:00,technical,low,closed,"De app werkt prima, maar soms duurt het laden van pagina’s wat langer dan verwacht."
+TICK_00157,CUST_072,2024-08-05T08:48:00,Tech,medium,closed,"Onze gebruikers ervaren vertraging bij het laden van dashboards, vooral tijdens piekuren. We horen graag of hier een oplossing voor is."
+TICK_00158,CUST_015,2024-09-06T09:25:00,Tech,medium,resolved,De exportfunctie werkt niet correct als ik te veel data selecteer. Kunnen jullie dit verbeteren?
+TICK_00159,CUST_042,2024-07-20T12:50:00,billing,medium,in_progress,"Nogmaals, ik wil benadrukken dat de factuur nog steeds onjuist is. Dit is belangrijk voor onze administratie en ik hoop op een snelle oplossing."
+TICK_00160,CUST_092,2024-08-30T11:12:00,invoice,high,resolved,"We hebben een onvoorzien hoge factuur ontvangen, wat is er precies veranderd in onze abonnementsvoorwaarden?"
+TICK_00161,CUST_087,2024-09-06T13:27:00,account,medium,closed,Ik krijg geen toegang meer tot mijn account sinds vanochtend. Kunt u dit nakijken?
+TICK_00162,CUST_044,2024-08-18T13:11:00,General,medium,in_progress,"Onze teamleden waarderen de nieuwe dashboardindeling, maar hebben nog wat tips over hoe we workflows kunnen optimaliseren."
+TICK_00163,CUST_059,2024-08-11T11:20:00,account,low,resolved,"Het lukt me niet om te authenticeren via twee-factor verificatie. De app genereert codes maar die worden telkens afgewezen, ook na herinstallatie van de app."
+TICK_00164,CUST_093,2024-07-05T13:04:00,account,low,resolved,"Ik heb zojuist mijn wachtwoord gewijzigd, maar ik wil graag weten hoe ik mijn e-mailnotificaties kan aanpassen."
+TICK_00165,CUST_015,2024-09-23T18:22:00,Tech,low,open,"Er is een bug in de technische integratie die de hele workflow stilzet, waardoor onze productie volledig blokkeert. Dit is al de tweede melding vandaag en moet voor 17:00 opgelost zijn."
+TICK_00166,CUST_005,2024-08-14T09:28:00,technical,,resolved,"Ik ondervind problemen met inloggen, krijg steeds een foutmelding na het invoeren van mijn wachtwoord."
+TICK_00167,CUST_080,2024-09-08T11:45:00,Bug,low,open,"De software werkt prima, alleen loopt het soms wat traag bij het laden van grote datasets, maar het is nog goed te doen."
+TICK_00168,CUST_116,2024-09-29T09:02:00,general,medium,in_progress,"Ik zou graag meer informatie ontvangen over de beveiligingsmaatregelen van jullie platform, zodat ik dit intern kan toelichten."
+TICK_00169,CUST_093,2024-09-12T09:51:00,Technical Support,low,resolved,"Dit is de tweede keer dat we dit probleem ervaren en we hebben nog geen reactie ontvangen. De productie staat volledig stil omdat orders niet verwerkt kunnen worden. We hebben dringend een oplossing nodig voor 17:00 vandaag, anders riskeren we klanten te verliezen."
+TICK_00170,CUST_095,2024-07-31T15:41:00,Technical Support,medium,resolved,"De synchronisatie van klantinformatie loopt af en toe vast, kunt u deze storing onderzoeken?"
+TICK_00171,CUST_029,2024-07-22T14:00:00,general,high,closed,"Ik ervaar vertragingen bij het laden van de dashboardpagina, is er iets aan de hand met de servers?"
+TICK_00172,CUST_009,2024-07-19T11:33:00,Bug,low,resolved,"De software werkt prima, alleen merk ik dat rapporten soms wat traag laden onder hoge belasting."
+TICK_00173,CUST_059,2024-07-26T10:56:00,Technical Support,medium,resolved,Er lijkt een error te zijn bij het uploaden van bestanden in de Documents module; the upload button reageert niet.
+TICK_00174,CUST_054,2024-09-26T08:09:00,Tech,medium,open,Bij het uploaden van documenten verschijnt een foutmelding die ik niet kan plaatsen. Kunt u helpen?
+TICK_00175,CUST_109,2024-07-23T12:00:00,billing,low,resolved,"Voor mijn administratie wil ik graag een gedetailleerde specificatie van de kosten ontvangen, indien mogelijk."
+TICK_00176,CUST_004,2024-08-11T17:14:00,account,high,resolved,Account geblokkeerd na meerdere inlogpogingen. Kan iemand dit snel resetten? We moeten door met ons werk.
+TICK_00177,CUST_028,2024-08-11T12:24:00,technical,low,resolved,Als laatste nog een kleine vraag: is er een limiet aan het aantal gebruikers per account?
+TICK_00178,CUST_014,2024-09-21T13:03:00,general,low,open,Even een snelle vraag: wat zijn de standaard responstijden van de supportafdeling?
+TICK_00179,CUST_113,2024-08-23T13:59:00,Billing,medium,resolved,"Er lijkt een dubbele afschrijving te zijn gedaan op onze laatste factuur, graag controle."
+TICK_00180,CUST_109,2024-09-25T17:38:00,Billing,low,open,Kan ik een overzicht krijgen van alle gemaakte kosten deze maand? Dank voor de info.
+TICK_00181,CUST_007,2024-08-18T14:35:00,Login,low,in_progress,"Ik zou graag een controle willen laten uitvoeren op onze gebruikersrechten. Er zijn enkele medewerkers die problemen ondervinden bij het inloggen, mogelijk veroorzaakt door recente wijzigingen in accounttoegang. Uw assistentie wordt gewaardeerd."
+TICK_00182,CUST_112,2024-09-09T11:27:00,account,high,in_progress,"Ik kan niet inloggen op mijn account sinds vanochtend, heb meerdere pogingen gedaan zonder succes. Dit blokkeert mijn werk!"
+TICK_00183,CUST_042,2024-07-14T13:01:00,billing,medium,in_progress,Ik merk dat er een fout is in onze laatste factuur. Kunt u dit alstublieft nakijken? Het lijkt alsof een bedrag verkeerd is gerekend.
+TICK_00184,CUST_075,2024-08-27T13:23:00,invoice,low,in_progress,Er lijkt een dubbele betaling op onze laatste factuur te staan. Kunnen jullie dit nakijken wanneer het uitkomt?
+TICK_00185,CUST_025,2024-08-11T11:29:00,account,low,in_progress,"Ik heb eerder contact opgenomen over deze kwestie, maar nog geen oplossing gezien. Onze klant verwacht de factuur vandaag en als dit niet snel geregeld wordt, dreigen zij weg te lopen. Het is essentieel dat dit vandaag nog wordt opgelost."
+TICK_00186,CUST_110,2024-07-16T18:53:00,general,medium,in_progress,Waar kan ik het beste feedback geven over de gebruiksvriendelijkheid van het dashboard?
+TICK_00187,CUST_043,2024-08-08T14:11:00,feature,medium,closed,Graag een feature om automatisch back-ups te plannen binnen het systeem.
+TICK_00188,CUST_090,2024-09-24T11:23:00,feature_request,medium,in_progress,"Het zou handig zijn als we rapporten direct kunnen exporteren naar Excel, dat scheelt ons veel handmatig werk."
+TICK_00189,CUST_056,2024-07-15T13:27:00,technical,medium,in_progress,Soms crasht de app bij het openen van het dashboard. Dit gebeurt vooral tijdens piekuren. Kunnen jullie dit onderzoeken?
+TICK_00190,CUST_096,2024-08-11T14:11:00,billing,high,in_progress,"Mijn betaling is nog niet verwerkt, terwijl deze gisteren al is gedaan. Graag spoedige afhandeling."
+TICK_00191,CUST_001,2024-07-17T17:14:00,invoice,low,resolved,Ik zag dat de laatste factuur niet overeenkomt met de afgesproken prijzen. Could you please review it and possibly correct?
+TICK_00192,CUST_095,2024-07-27T13:20:00,Bug,high,resolved,"Onze workflow ligt volledig stil door een foutmelding bij het opslaan van gegevens. Graag spoedig assistentie, dit blokkeert ons werk!"
+TICK_00193,CUST_007,2024-08-19T10:50:00,Login,low,closed,Een aantal teamleden ervaart problemen met het resetten van wachtwoorden via de portal. Dit beschadigt de toegang tot essentiële functies en vraagt om een snelle oplossing.
+TICK_00194,CUST_104,2024-09-20T14:23:00,overig,low,in_progress,Wat zijn de beste bronnen om meer te leren over de functionaliteiten van Pippify?
+TICK_00195,CUST_060,2024-07-29T14:44:00,feature_request,low,in_progress,Een functie voor het integreren van externe workflows via API zou onze efficiëntie sterk verbeteren.
+TICK_00196,CUST_022,2024-07-19T14:05:00,Tech,high,closed,De synchronisatie tussen onze CRM en jullie software werkt sinds gisteren niet meer. Dit is urgent.
+TICK_00197,CUST_036,2024-08-08T17:37:00,feature,low,closed,"Een integratie met onze bestaande CRM zou ons veel tijd besparen, is dit iets wat jullie overwegen?"
+TICK_00198,CUST_046,2024-08-23T12:53:00,feature,low,open,Zou het mogelijk zijn om een optie toe te voegen voor aangepaste dashboardweergaven per gebruiker?
+TICK_00199,CUST_035,2024-09-22T09:54:00,Technical Support,medium,open,"Sinds kort hapert het dashboard bij het laden van statistieken, kunt u dit onderzoeken?"
+TICK_00200,CUST_009,2024-09-10T16:08:00,account,high,open,"Ik kan niet inloggen met mijn bedrijfsaccount, ondanks dat mijn wachtwoord correct is."
+TICK_00201,CUST_061,2024-09-02T16:32:00,,medium,open,"De zoekfunctie levert niet alle resultaten zoals verwacht, graag bekijken."
+TICK_00202,CUST_036,2024-07-11T10:09:00,Bug,high,in_progress,"De software reageert erg traag en crasht soms, dit verstoort onze workflows; graag zo snel mogelijk oplossen."
+TICK_00203,CUST_059,2024-08-18T16:33:00,Bug,low,in_progress,"Ik merk dat de app wat traag is bij het laden van dashboards, maar het stoort niet te veel."
+TICK_00204,CUST_066,2024-07-30T17:51:00,general,high,resolved,"Er lijkt een storing in het systeem te zijn, ik kan niet inloggen maar er staat geen foutmelding."
+TICK_00205,CUST_032,2024-08-07T12:01:00,technical,low,closed,Is het mogelijk om de zoekfunctie te verbeteren? Soms vindt hij niet wat ik zoek ondanks correcte zoektermen.
+TICK_00206,CUST_009,2024-08-12T18:07:00,Account Management,medium,resolved,Ik kan niet inloggen op mijn account sinds vanochtend. Kunt u dit spoedig nakijken? Dank!
+TICK_00207,CUST_104,2024-09-12T18:12:00,Feature Request,low,open,"Een mogelijkheid om aangepaste dashboards te maken zou echt fijn zijn, zodat we sneller overzichten hebben."
+TICK_00208,CUST_084,2024-07-31T18:19:00,Account Management,low,in_progress,"Ik ben mijn wachtwoord vergeten en kan niet inloggen, hoe kan ik dit zelf resetten zonder hulp?"
+TICK_00209,CUST_020,2024-09-25T14:31:00,feature_request,low,open,Foutmelding bij het openen.
+TICK_00210,CUST_056,2024-07-03T11:13:00,account,high,open,We hebben dringend toegang nodig tot ons account; de wachtwoordreset werkt niet.
+TICK_00211,CUST_050,2024-08-17T11:01:00,technical,high,open,De applicatie crasht telkens als we proberen een groot bestand te uploaden. Dit moet echt snel opgelost worden!
+TICK_00212,CUST_075,2024-08-01T09:35:00,General,low,closed,"Wat zijn de openingstijden van de klantenservice in het weekend? Niet dringend, ik plan gewoon vooruit."
+TICK_00213,CUST_078,2024-09-07T15:45:00,Bug,high,in_progress,Onze afdeling ervaart momenteel een storing: de software crasht bij het openen van klantprofielen. Graag spoedig een oplossing.
+TICK_00214,CUST_113,2024-09-12T13:12:00,General,medium,resolved,Is er een roadmap beschikbaar waarin nieuwe functies van de komende maanden worden toegelicht?
+TICK_00215,CUST_084,2024-07-15T15:38:00,Feature Request,medium,resolved,Zou het mogelijk zijn om een optie toe te voegen om gebruikersrechten per project aan te passen?
+TICK_00216,CUST_087,2024-08-14T09:11:00,overig,low,closed,Kunnen jullie meer informatie geven over de geplande onderhoudsvensters dit kwartaal?
+TICK_00217,CUST_007,2024-09-11T14:43:00,technical,low,resolved,We merken dat notificaties over systeemupdates niet altijd aankomen bij de verantwoordelijke teams. Dit zorgt voor vertraging in het aanpassen van onze processen. Kan de communicatie verbeterd worden?
+TICK_00218,CUST_083,2024-07-08T13:32:00,Technical Support,low,open,"Ik merk soms wat vertraging bij het openen van bepaalde modules, maar verder werkt alles soepel."
+TICK_00219,CUST_051,2024-08-18T14:05:00,technical,high,in_progress,We ondervinden een kritieke fout bij het opslaan van wijzigingen; graag spoedig hulp!
+TICK_00220,CUST_095,2024-09-16T10:21:00,general,high,open,"Er lijkt een storing te zijn, ik kan helemaal niet inloggen en moet dringend bij mijn gegevens kunnen."
+TICK_00221,CUST_055,2024-07-09T10:00:00,Facturatie,medium,in_progress,De automatische facturatie lijkt niet correct te zijn doorgevoerd; kunnen jullie bevestigen dat alles volgens onze abonnementsovereenkomst verloopt?
+TICK_00222,CUST_005,2024-09-21T13:23:00,billing,low,open,Kan ik een overzicht krijgen van de betaalde en openstaande facturen tot nu toe?
+TICK_00223,CUST_110,2024-07-31T10:26:00,Billing,low,resolved,Kan ik een overzicht krijgen van mijn betalingsgeschiedenis in het klantportaal? Dat zou erg handig zijn.
+TICK_00224,CUST_031,2024-08-21T14:46:00,Tech,high,open,Onze workflow loopt volledig vast door een kritieke fout in het procesmanagement. Directe assistentie gewenst.
+TICK_00225,CUST_038,2024-07-16T08:40:00,technical,medium,resolved,"Ik ervaar vertragingen bij het openen van dashboards sinds gisteren, zou u dit kunnen controleren?"
+TICK_00226,CUST_074,2024-09-21T18:24:00,technical,high,resolved,"Onze bedrijfsapplicatie crasht telkens bij het genereren van rapporten, graag met spoed oplossen."
+TICK_00227,CUST_041,2024-07-25T13:43:00,overig,medium,closed,Kunnen jullie me meer vertellen over de nieuwe functies die recent zijn toegevoegd aan jullie platform?
+TICK_00228,CUST_099,2024-08-25T09:00:00,Login,low,open,"We kunnen onze accountinstellingen niet aanpassen, wat een blokkade oplevert voor het hele team. Dit probleem is al eerder gemeld maar nog niet opgelost, en we hebben het vandaag echt nodig."
+TICK_00229,CUST_090,2024-09-09T18:37:00,Account Management,low,open,Ik zou graag willen weten hoe ik mijn accountgegevens kan bijwerken zonder dat mijn toegang wordt onderbroken.
+TICK_00230,CUST_045,2024-09-24T11:17:00,Feature Request,medium,open,Het zou fijn zijn als er een optie komt om aangepaste dashboards te maken voor verschillende teams binnen ons bedrijf.
+TICK_00231,CUST_073,2024-08-04T12:16:00,technical,medium,in_progress,De software loopt vast bij het importeren van bestanden. Heeft u een tip om dit te verhelpen?
+TICK_00232,CUST_089,2024-08-29T10:39:00,feature,medium,in_progress,Het zou handig zijn als jullie een functie toevoegen waarmee we bulkacties kunnen uitvoeren op meerdere projecten tegelijk.
+TICK_00233,CUST_049,2024-09-07T17:40:00,Facturatie,low,resolved,We missen crucial billing informatie die per direct nodig is voor de deadline morgen. Zonder correcte gegevens kunnen we onze administratie niet sluiten en verliezen we geld.
+TICK_00234,CUST_017,2024-09-09T12:53:00,General,low,in_progress,Kunt u aangeven welke trainingen beschikbaar zijn om het team beter wegwijs te maken in Pippify?
+TICK_00235,CUST_054,2024-07-08T10:32:00,technical,medium,closed,"De synchronisatie met onze kalender verloopt niet soepel, kunnen jullie dit nakijken?"
+TICK_00236,CUST_016,2024-09-03T11:36:00,invoice,medium,in_progress,Kunnen we een aangepaste betalingsregeling treffen voor onze abonnementskosten? Momenteel zitten we wat krap in het budget.
+TICK_00237,CUST_014,2024-08-11T11:00:00,billing,low,resolved,Ik heb een vraag over onze huidige facturatiecyclus. Wanneer wordt onze volgende betaling precies verwerkt?
+TICK_00238,CUST_090,2024-07-11T17:55:00,wens,low,resolved,Zouden jullie de optie kunnen toevoegen om aangepaste labels te maken voor rapportages? Dat zou onze workflow echt verbeteren.
+TICK_00239,CUST_078,2024-08-26T09:33:00,Technical Support,low,resolved,"De app reageert traag bij het laden van klantgegevens, vooral tijdens piekuren."
+TICK_00240,CUST_006,2024-09-02T09:06:00,overig,low,open,"Goedemiddag, ik vroeg me af of er binnenkort webinars gepland staan over nieuwe functionaliteiten?"
+TICK_00241,CUST_007,2024-09-06T08:14:00,technical,low,open,"Sinds kort ervaren we problemen met de API-koppeling naar onze voorraadbeheersoftware. Het synchronisatieproces loopt vast, wat risico's geeft op voorraadinformatie-achterstand. Uw spoedige onderzoek wordt op prijs gesteld."
+TICK_00242,CUST_028,2024-07-27T17:13:00,invoice,medium,closed,Onze factuur vermeldt verkeerde contactgegevens. Hoe kunnen we dit aanpassen?
+TICK_00243,CUST_022,2024-09-10T14:29:00,account,low,open,"Onze accountinstellingen zijn onbereikbaar, waardoor medewerkers geblokkeerd worden. Dit is al eerder gemeld maar nog niet gefixt, en het moet vandaag nog goed zijn."
+TICK_00244,CUST_090,2024-07-22T16:46:00,account,medium,in_progress,"Ik kan niet inloggen op mijn bedrijfsaccount, ondanks dat mijn wachtwoord correct is. Kunt u me hiermee helpen?"
+TICK_00245,CUST_048,2024-09-01T10:58:00,billing,medium,resolved,Wij hebben een vraag over de factuur van deze maand; enkele kostenposten lijken ons niet helemaal te kloppen. Kunnen jullie dit nakijken?
+TICK_00246,CUST_086,2024-09-07T15:29:00,technical,medium,in_progress,"Er zijn inconsistenties in de data-export, waardoor rapporten onvolledig lijken. Wat kunnen we doen?"
+TICK_00247,CUST_098,2024-08-01T18:17:00,overig,medium,closed,Kunt u toelichten welke beveiligingsmaatregelen Pippify hanteert om onze data te beschermen?
+TICK_00248,CUST_035,2024-08-06T14:44:00,overig,medium,closed,Wat is de beste manier om feedback te geven over de gebruikersinterface? Ik heb enkele suggesties die de gebruiksvriendelijkheid kunnen verbeteren.
+TICK_00249,CUST_064,2024-09-18T14:09:00,Facturatie,medium,resolved,Kunt u controleren waarom onze laatste factuur een onverwachte extra post bevat? We willen dit graag begrijpen voordat we betalen.
+TICK_00250,CUST_014,2024-08-09T15:02:00,General,medium,resolved,Ik ben benieuwd of er mogelijkheden zijn om gebruikersrollen binnen Pippify uitgebreider te beheren?
+TICK_00251,CUST_006,2024-08-26T16:13:00,feature,,closed,Is het mogelijk om een exportfunctie te krijgen die ook grafieken meeneemt?
+TICK_00252,CUST_020,2024-08-14T14:08:00,Tech,medium,resolved,"De applicatie reageert traag bij het laden van rapporten, wat het gebruik bemoeilijkt. Is hier een oplossing voor?"
+TICK_00253,CUST_081,2024-07-27T11:51:00,billing,,open,"Er klopt iets niet met de facturatie, er staat een bedrag op die we niet herkennen."
+TICK_00254,CUST_013,2024-07-13T13:51:00,general,low,in_progress,Kun je me wat meer vertellen over de geplande updates voor deze maand? Ik wil graag op de hoogte blijven.
+TICK_00255,CUST_068,2024-08-29T09:17:00,account,low,in_progress,Ik wil graag weten hoe ik extra gebruikers kan toevoegen binnen ons account zonder extra kosten.
+TICK_00256,CUST_051,2024-08-08T10:08:00,Account Management,low,resolved,"Ik heb problemen met mijn account omdat de 2FA niet werkt. Ik heb geprobeerd mijn authenticatie opnieuw in te stellen, maar ik blijf foutmeldingen krijgen bij het inloggen."
+TICK_00257,CUST_065,2024-08-31T13:21:00,general,medium,in_progress,Wat zijn de meest voorkomende oorzaken van vertragingen binnen de software die ik kan controleren?
+TICK_00258,CUST_007,2024-09-21T13:36:00,Account Management,low,closed,Er lijken inconsistenties te zijn in de profielen van een aantal gebruikers; sommige wijzigingen worden niet opgeslagen. Dit bemoeilijkt het beheer van accounts en verzoek ik om een nadere analyse.
+TICK_00259,CUST_072,2024-07-25T11:36:00,Bug,high,resolved,"Na de update werkt het uploaden van bestanden helemaal niet meer, dit is zeer urgent voor onze workflows."
+TICK_00260,CUST_006,2024-07-15T08:54:00,invoice,low,resolved,"Er lijkt iets mis te zijn met de betalingsafhandeling waardoor we geld verliezen. Dit is de tweede keer dat dit gebeurt, en het moet vanmiddag nog gerepareerd zijn."
+TICK_00261,CUST_018,2024-07-08T09:33:00,Technical Support,high,in_progress,We ervaren momenteel een storing die onze workflow ernstig belemmert. Kunnen jullie dit zo snel mogelijk oplossen?
+TICK_00262,CUST_022,2024-07-21T08:26:00,technical,medium,resolved,De software reageert langzaam wanneer ik meerdere tabbladen open heb staan. Is hier een oplossing voor?
+TICK_00263,CUST_034,2024-08-27T13:05:00,billing,medium,in_progress,Is het mogelijk om een betalingsplan te ontvangen voor de komende kwartaalfacturen?
+TICK_00264,CUST_034,2024-09-16T09:49:00,feature_request,low,resolved,Zijn er plannen om integraties met andere CRM-systemen toe te voegen? Dat zou erg behulpzaam zijn.
+TICK_00265,CUST_073,2024-09-15T16:47:00,Billing,low,resolved,Kan ik een overzicht krijgen van mijn eerdere facturen binnen mijn accountomgeving?
+TICK_00266,CUST_101,2024-07-18T10:04:00,Technical Support,low,resolved,Na de laatste update start de software erg traag op. Is er een manier om dit te versnellen?
+TICK_00267,CUST_078,2024-09-03T10:22:00,Billing,low,closed,Er is een fout in de betalingsmodule waardoor klantbetalingen vandaag niet verwerkt kunnen worden. Dit leidt tot dataverlies en moet voor 17 uur opgelost zijn.
+TICK_00268,CUST_041,2024-08-09T17:43:00,Billing,low,closed,"Ik zie in mijn factuur een post die ik niet herken, kunnen jullie deze specificeren?"
+TICK_00269,CUST_042,2024-07-31T16:24:00,invoice,medium,in_progress,Voor de derde keer meld ik dat er fouten in de facturatie zitten. Dit duurt nu al te lang en belemmert ons werk.
+TICK_00270,CUST_097,2024-09-19T11:16:00,billing,medium,in_progress,Er lijkt een discrepantie te zijn tussen de factuur en ons contract. Kunt u dit even controleren?
+TICK_00271,CUST_084,2024-08-12T11:08:00,account,low,closed,Kan ik meerdere gebruikers aan mijn account koppelen zonder extra kosten?
+TICK_00272,CUST_047,2024-08-05T17:14:00,overig,low,closed,Ik vroeg me af of er binnenkort webinars of trainingssessies gepland staan voor nieuwe gebruikers?
+TICK_00273,CUST_022,2024-07-18T12:03:00,Feature Request,medium,resolved,Het zou handig zijn als er een exportmogelijkheid naar Excel komt binnen het rapportagemenu.
+TICK_00274,CUST_052,2024-08-05T17:43:00,account,medium,resolved,Een van onze gebruikers kan zijn wachtwoord niet resetten ondanks meerdere pogingen. Kunnen jullie helpen?
+TICK_00275,CUST_020,2024-08-19T17:26:00,billing,low,open,Kunnen jullie bevestigen dat onze betaling voor deze maand is ontvangen? Even ter geruststelling.
+TICK_00276,CUST_092,2024-07-09T15:02:00,invoice,high,resolved,"Er staat een dubbele afschrijving op onze rekening. Dit moeten we zo snel mogelijk rechtzetten, graag spoedige terugkoppeling."
+TICK_00277,CUST_119,2024-09-06T10:15:00,Billing,high,open,We missen een betalingstermijn op onze huidige factuur en willen voorkomen dat we onbedoeld in gebreke blijven. Graag spoedige correctie.
+TICK_00278,CUST_007,2024-09-26T12:57:00,Bug,low,in_progress,We ondervinden haperingen bij het exporteren van rapportages naar CSV. Dit vertraagt onze maandelijkse analyses en planning. Graag een update over de status van een oplossing.
+TICK_00279,CUST_010,2024-08-31T16:26:00,technical,high,resolved,"Sinds vanochtend werkt de importfunctie helemaal niet meer, dit heeft hoge prioriteit om te fixen."
+TICK_00280,CUST_011,2024-09-19T17:42:00,wens,high,resolved,We zouden echt graag zien dat er een realtime chatmogelijkheid in de software komt. Dit zou het supportproces flink versnellen!
+TICK_00281,CUST_038,2024-09-22T18:30:00,Tech,high,open,De software crasht telkens wanneer ik een bestand probeer te uploaden. Dit moet met prioriteit worden opgelost!
+TICK_00282,CUST_075,2024-09-11T18:40:00,feature,medium,closed,Het zou handig zijn als Pippify integraties met andere CRM-systemen ondersteunt. Is dat iets wat op de planning staat?
+TICK_00283,CUST_103,2024-08-08T12:26:00,account,low,resolved,"Kan mijn account niet bereiken door een probleem met de twee-factor verificatie. De app toont codes, maar bij het invoeren krijg ik steeds de melding 'authenticatie mislukt'."
+TICK_00284,CUST_098,2024-07-22T09:32:00,technical,low,resolved,"Ik merk dat de app soms vastloopt als ik meerdere tabbladen open heb. Dit is niet storend, maar wel iets om in de gaten te houden."
+TICK_00285,CUST_036,2024-07-11T17:02:00,Login,medium,closed,"Ik wil graag een tweede gebruiker aan mijn account toevoegen, hoe regel ik dat?"
+TICK_00286,CUST_097,2024-08-06T18:31:00,Technical Support,low,resolved,"Mijn inlogpogingen mislukken steeds vanwege de authenticator-app die verkeerde verificatiecodes geeft. Ik heb de app meerdere keren herstart en geprobeerd een nieuwe code te genereren, maar niets helpt."
+TICK_00287,CUST_111,2024-09-09T12:08:00,billing,low,in_progress,Zouden jullie kunnen bevestigen of het mogelijk is om een factuurkopie te ontvangen voor onze administratie?
+TICK_00288,CUST_016,2024-07-19T13:19:00,Facturatie,low,resolved,"Er is een fout in de facturatie die onze klantrelatie bedreigt. Dit is al een keer eerder gemeld maar nog niet opgelost, graag spoedige afhandeling voor de deadline morgenochtend."
+TICK_00289,CUST_075,2024-07-03T12:35:00,general,medium,closed,Kunnen jullie aangeven of er binnenkort nieuwe trainingsmaterialen beschikbaar komen? We willen onze medewerkers graag goed op de hoogte houden.
+TICK_00290,CUST_087,2024-08-13T17:02:00,account,high,closed,Ik kan helemaal niet meer inloggen en heb dringend toegang tot het systeem nodig om mijn werk voort te zetten.
+TICK_00291,CUST_053,2024-07-29T08:48:00,account,medium,open,"Ik kan niet inloggen met mijn zakelijke account sinds gisteren, wil graag assistentie."
+TICK_00292,CUST_040,2024-09-26T14:19:00,Tech,medium,in_progress,We ondervinden wat problemen met het synchroniseren van data; het lijkt niet consistent te werken.
+TICK_00293,CUST_007,2024-07-05T10:59:00,Billing,low,closed,"Onze recente betaling lijkt nog niet verwerkt te zijn in uw systeem, wat leidde tot een notificatie voor achterstallige factuur. Wellicht is hier een synchronisatiefout. Uw snelle bevestiging wordt gevraagd."
+TICK_00294,CUST_002,2024-07-31T08:42:00,technical,low,in_progress,Kan ik de software ook zonder internetverbinding gebruiken? Ik wil weten wat de mogelijkheden zijn voor offline werken.
+TICK_00295,CUST_095,2024-09-07T10:12:00,invoice,low,open,Kunt u bevestigen of de laatste factuur al is verstuurd? Ik wil graag controleren of alles klopt.
+TICK_00296,CUST_096,2024-07-13T15:39:00,billing,medium,resolved,Er lijkt een dubbele afschrijving te zijn gedaan vorige maand. Kunt u dit controleren en corrigeren?
+TICK_00297,CUST_027,2024-07-06T08:02:00,Login,medium,in_progress,"Ik probeer mijn gebruikersrechten aan te passen, maar krijg een foutmelding. Kunnen jullie dit checken?"
+TICK_00298,CUST_109,2024-07-09T14:43:00,billing,low,resolved,"Er is een fout op de factuur die vandaag betaald moet worden; als we dit niet snel aanpassen, krijgt onze klant een verkeerde afrekening en dreigt een groot geschil."
+TICK_00299,CUST_018,2024-08-13T18:48:00,account,medium,open,"Hi, ik heb problemen met het resetten van mijn password via the standard recovery flow. Kan iemand me hiermee helpen?"
+TICK_00300,CUST_033,2024-08-05T14:32:00,wens,medium,resolved,Het zou erg handig zijn als jullie een functie toevoegen waarmee we rapporten automatisch kunnen exporteren naar Excel. Dit zou ons veel tijd besparen bij het verwerken van data.
+TICK_00301,CUST_043,2024-08-05T14:21:00,general,low,closed,"Ik heb al meerdere keren geprobeerd in te loggen, maar mijn 2FA code wordt steeds geweigerd. De app werkt verder prima, dus ik weet niet wat er misgaat."
+TICK_00302,CUST_085,2024-09-10T18:24:00,technical,low,open,"De app crasht soms onverwacht, met name bij het gebruik van de tijdregistratie. Kunnen jullie hier naar kijken?"
+TICK_00303,CUST_063,2024-09-25T09:26:00,wens,low,in_progress,Een klein verzoek: kunnen jullie een donkere modus implementeren? Dat werkt prettiger voor onze ogen tijdens lange werkdagen.
+TICK_00304,CUST_087,2024-09-26T08:58:00,Tech,low,in_progress,"Ik krijg regelmatig meldingen dat mijn sessie is verlopen, ook al ben ik actief bezig. Iets om te kijken wellicht?"
+TICK_00305,CUST_034,2024-08-21T16:52:00,technical,high,closed,De software crasht telkens wanneer ik een rapport probeer te genereren. Dit moet snel opgelost worden.
+TICK_00306,CUST_057,2024-07-20T18:59:00,technical,low,resolved,Af en toe verdwijnen ingevoerde data plotseling uit het systeem. Kunnen jullie kijken wat dit veroorzaakt?
+TICK_00307,CUST_049,2024-09-03T16:35:00,Billing,medium,open,Kunt u uitleg geven over de laatste factuur? Er staat een extra bedrag dat we niet kunnen plaatsen.
+TICK_00308,CUST_038,2024-09-25T17:03:00,Technical Support,medium,resolved,Sinds vandaag krijg ik foutmeldingen bij het uploaden van bestanden. Graag hulp om dit te verhelpen.
+TICK_00309,CUST_018,2024-09-09T12:44:00,technical,high,resolved,Onze systemen kunnen nu helemaal niet meer met jullie platform communiceren. Dit moet echt meteen opgelost worden!
+TICK_00310,CUST_080,2024-09-05T14:28:00,Login,medium,resolved,Kan ik mijn wachtwoord resetten zonder mijn accountgegevens te verliezen? Ik wil dit graag veilig doen.
+TICK_00311,CUST_061,2024-09-25T12:46:00,account,medium,open,"Ik kan mijn account niet meer inloggen sinds gisteren, ondanks dat mijn wachtwoord correct is. Kunt u hulp bieden?"
+TICK_00312,CUST_044,2024-07-20T15:04:00,overig,medium,resolved,Kunnen jullie aangeven of er binnenkort updates gepland staan die de snelheid van de software verbeteren?
+TICK_00313,CUST_007,2024-07-13T14:14:00,Technical Support,low,closed,"Onze synchronisatie met leveranciersdata loopt regelmatig vast, wat de productielijn onder druk zet vanwege ontbrekende informatie. Dit veroorzaakt operationele risico's die we zo snel mogelijk willen mitigeren."
+TICK_00314,CUST_007,2024-07-27T17:09:00,technical,low,closed,De integratie met onze interne CRM vertoont fouten bij het overdragen van klantdata. Dit veroorzaakt dubbele invoer en dataverliesgevaar. Het verdient onze prioriteit om dit probleem te adresseren.
+TICK_00315,CUST_020,2024-08-09T17:47:00,Billing,low,closed,Is het mogelijk om facturen voortaan per maand te ontvangen in plaats van per kwartaal? Gewoon een suggestie.
+TICK_00316,CUST_108,2024-08-10T18:04:00,account,low,resolved,Hoe kan ik de toegangsrechten van mijn teamleden aanpassen binnen onze bedrijfsomgeving?
+TICK_00317,CUST_042,2024-09-01T11:45:00,Account Management,medium,open,"De blokkade van mijn account is onacceptabel en zorgt voor grote problemen. Ik eis directe actie en verwacht binnen 24 uur een oplossing, anders stappen wij over naar een andere leverancier."
+TICK_00318,CUST_079,2024-07-02T16:12:00,Feature Request,low,open,Is het mogelijk om een sjabloonbibliotheek toe te voegen die we intern kunnen delen en bewerken?
+TICK_00319,CUST_011,2024-09-24T16:13:00,billing,medium,in_progress,"We missen een specificatie op de factuur, kunnen jullie deze aanvullen met details?"
+TICK_00320,CUST_027,2024-09-10T12:08:00,feature,low,open,Zou het mogelijk zijn om een optie toe te voegen om standaardlabels te maken voor projecten? Dat helpt bij het organiseren.
+TICK_00321,CUST_058,2024-07-12T15:22:00,Account Management,medium,resolved,Ik kan niet inloggen op mijn account met mijn gebruikelijke gegevens. Kunt u dit nakijken?
+TICK_00322,CUST_052,2024-09-29T11:13:00,technical,low,open,"We hebben al eerder gemeld dat ons systeem blijft vastlopen bij het uploaden van bestanden. Dit probleem zorgt ervoor dat het hele team niet verder kan met hun werk. Aangezien we morgen een belangrijke deadline hebben, moet dit vandaag nog opgelost zijn."
+TICK_00323,CUST_075,2024-07-27T18:45:00,account,high,resolved,Ik kan niet inloggen op mijn account en heb direct toegang nodig voor een presentatie straks. Kunt u dit met spoed fixen?
+TICK_00324,CUST_019,2024-08-24T10:31:00,,medium,in_progress,Kan de toegang tot de projectdata voor mijn teamleden worden herzien? Niet iedereen heeft de juiste rechten.
+TICK_00325,CUST_096,2024-09-04T09:24:00,wens,medium,resolved,Een filteroptie om klantstatussen te selecteren zou onze workflow erg verbeteren. Kan dit op de planning worden gezet?
+TICK_00326,CUST_049,2024-09-09T10:39:00,Account Management,low,resolved,Ik ben benieuwd naar de mogelijkheden om mijn account te koppelen aan ons interne HR-systeem. Kan dat?
+TICK_00327,CUST_056,2024-08-19T17:44:00,Billing,high,open,"Onze betaling is vertraagd door een fout in de factuur, we hebben dringend een gecorrigeerde versie nodig."
+TICK_00328,CUST_101,2024-08-26T08:26:00,account,high,open,We kunnen niet inloggen op ons account sinds vanochtend. Kunnen jullie dit zo snel mogelijk nakijken?
+TICK_00329,CUST_020,2024-07-23T09:42:00,General,medium,closed,Kunt u bevestigen of er onderhoud gepland is deze maand dat mogelijk invloed heeft op onze toegang?
+TICK_00330,CUST_061,2024-09-24T17:58:00,Bug,medium,in_progress,"De exportfunctie van rapporten geeft regelmatig foutmeldingen, vooral bij grote datasets. Wat kunnen we hieraan doen?"
+TICK_00331,CUST_090,2024-07-19T11:29:00,technical,high,resolved,"Onze software is volledig onbruikbaar sinds vanochtend, we krijgen alleen foutmeldingen. Dit moet echt direct opgelost worden!"
+TICK_00332,CUST_110,2024-07-05T13:25:00,feature,low,resolved,Het zou handig zijn als er een optie komt om aangepaste labels aan projecten toe te voegen voor betere organisatie.
+TICK_00333,CUST_059,2024-07-13T08:41:00,wens,high,closed,We hebben dringend behoefte aan een functie om gebruikersrollen flexibeler te beheren; dit zou ons veel tijd besparen.
+TICK_00334,CUST_010,2024-07-30T17:14:00,Bug,medium,open,"Sinds de laatste update werkt het synchroniseren met onze CRM niet meer correct, dit veroorzaakt vertragingen in ons proces."
+TICK_00335,CUST_023,2024-08-31T12:47:00,technical,high,resolved,"Onze data export functie werkt niet meer sinds vanochtend, we hebben dit dringend nodig om rapportages te maken."
+TICK_00336,CUST_094,2024-08-23T15:30:00,Tech,medium,open,"Er verschijnt regelmatig een foutmelding tijdens het exporteren van data, kunt u dit analyseren?"
+TICK_00337,CUST_007,2024-08-20T09:19:00,invoice,low,open,In de laatst ontvangen factuur is een onjuiste BTW-tarief toepassing opgetreden. Dit wijkt af van de geldende regels voor ons type contract. Graag uw correctie en bevestiging.
+TICK_00338,CUST_120,2024-07-29T11:08:00,General,low,resolved,Wat zijn de mogelijkheden voor het instellen van gebruikerspermissies binnen ons account? Ik zoek naar een overzichtelijke gids.
+TICK_00339,CUST_085,2024-07-19T12:12:00,Feature Request,low,in_progress,Zou het mogelijk zijn om een exportfunctie toe te voegen voor rapportages? Dat zou onze workflow erg verbeteren.
+TICK_00340,CUST_021,2024-07-15T17:13:00,Bug,medium,resolved,"De app crasht soms bij het openen van bepaalde documenten, dit komt met name voor sinds de laatste update."
+TICK_00341,CUST_028,2024-09-03T15:16:00,wens,high,resolved,We hebben dringend een functie nodig om bulk-updates op klantgegevens uit te voeren. Dit is essentieel voor onze dagelijkse processen.
+TICK_00342,CUST_103,2024-09-06T08:42:00,Billing,medium,open,"De factuur lijkt niet te kloppen, er worden kosten in rekening gebracht die niet overeenkomen met ons contract."
+TICK_00343,CUST_076,2024-09-06T08:55:00,Feature Request,low,in_progress,Geen reactie ontvangen op mijn vorige melding over het verzoek om een donkere modus in de app.
+TICK_00344,CUST_109,2024-09-26T13:16:00,Bug,medium,resolved,Soms worden ingevoerde data niet correct gesynchroniseerd tussen modules. Dit leidt tot inconsistenties in onze administratie.
+TICK_00345,CUST_071,2024-09-24T16:26:00,billing,medium,in_progress,"Ik zie een onduidelijkheid op onze laatste factuur, zou u deze kunnen toelichten?"
+TICK_00346,CUST_067,2024-07-08T16:05:00,general,medium,closed,Ik vraag me af of er plannen zijn om integraties met andere veelgebruikte tools uit te breiden?
+TICK_00347,CUST_081,2024-08-14T11:40:00,account,medium,resolved,"I am unable to update my profile information, it keeps showing an error message after submitting changes."
+TICK_00348,CUST_052,2024-08-06T15:06:00,technical,low,in_progress,Sinds kort werkt mijn twee-factor verificatie niet meer. De codes die ik invoer worden constant afgekeurd. Kan dit aan de laatst uitgevoerde update liggen?
+TICK_00349,CUST_075,2024-09-20T08:05:00,Account Management,low,resolved,Ik wil graag een tweede e-mailadres aan mijn account toevoegen. Kan dat eenvoudig geregeld worden?
+TICK_00350,CUST_068,2024-07-18T11:50:00,technical,high,resolved,De software stopt plotseling met laden bij het openen van de klantendatabase. Dit moet snel verholpen worden!
+TICK_00351,CUST_057,2024-08-08T09:03:00,billing,low,in_progress,Ik wil graag weten of het mogelijk is om een extra betalingsmethode toe te voegen voor ons account.
+TICK_00352,CUST_011,2024-08-09T17:50:00,general,low,resolved,"Sinds de recente update kan ik niet meer inloggen omdat mijn twee-factor verificatiecode niet wordt geaccepteerd. Ik heb mijn authenticator-app al opnieuw gesynchroniseerd, maar zonder succes."
+TICK_00353,CUST_092,2024-07-28T13:06:00,Technical Support,low,open,Ik heb een klein technisch vraagje: werkt de software ook op oudere versies van Safari?
+TICK_00354,CUST_083,2024-07-19T12:27:00,account,low,open,"Ik wil graag mijn wachtwoord wijzigen, maar ik kan de optie niet vinden in mijn accountinstellingen."
+TICK_00355,CUST_015,2024-07-22T11:33:00,billing,low,in_progress,"De facturatiegegevens worden niet correct weergegeven, wat leidt tot verkeerde betalingen en looptijdverlies. We moeten dit voor morgen opgelost hebben om klantverlies te voorkomen."
+TICK_00356,CUST_075,2024-08-24T18:23:00,wens,low,open,Een functie voor het instellen van automatische herinneringen binnen projecten zou zeer welkom zijn.
+TICK_00357,CUST_062,2024-08-06T09:41:00,technical,low,closed,"De interface is over het algemeen gebruiksvriendelijk, maar soms hapert de pagina wisseling een beetje."
+TICK_00358,CUST_100,2024-08-11T14:23:00,technical,low,in_progress,Na de laatste update krijg ik steeds de melding 'authenticatie mislukt' bij het inloggen met mijn verificatiecode uit de authenticator-app. Wat kan ik hieraan doen?
+TICK_00359,CUST_044,2024-08-25T10:08:00,billing,medium,open,Er lijkt een dubbele afschrijving te zijn gedaan op onze laatste factuur. Kunnen jullie dit corrigeren?
+TICK_00360,CUST_105,2024-07-19T11:55:00,Facturatie,high,resolved,"Er lijkt een fout te staan op mijn factuur, deze moet per direct worden aangepast zodat we kunnen betalen."
+TICK_00361,CUST_051,2024-07-10T17:44:00,Bug,medium,closed,"Na de laatste update hebben sommige gebruikers problemen met het inloggen via SSO, graag assistentie."
+TICK_00362,CUST_004,2024-09-12T12:41:00,Billing,high,open,De factuur die we gisteren ontvingen bevat dubbele kosten. Graag spoedig corrigeren.
+TICK_00363,CUST_097,2024-07-10T13:36:00,Facturatie,low,resolved,Kan ik een overzicht krijgen van onze betalingen dit kwartaal? Dan kan ik dit intern beter afstemmen.
+TICK_00364,CUST_061,2024-07-30T11:01:00,Technical Support,high,resolved,"Na de laatste patch start de app niet meer op en krijg ik foutmelding 503. Dit blokkeert al mijn werkzaamheden, graag spoedige hulp."
+TICK_00365,CUST_067,2024-07-09T11:23:00,Tech,high,resolved,"Het systeem crasht telkens als ik probeer een nieuwe taak aan te maken. Dit blokkeert mijn workflow, graag snelle assistentie."
+TICK_00366,CUST_057,2024-07-07T18:41:00,technical,high,closed,"Onze systemen kunnen momenteel geen verbinding maken met de Pippify API, dit blokkeert onze workflows. Dit is zeer urgent."
+TICK_00367,CUST_116,2024-08-19T13:11:00,technical,medium,in_progress,De software crasht af en toe bij het uploaden van grote bestanden. Heeft u wellicht tips om dit te voorkomen?
+TICK_00368,CUST_008,2024-08-30T09:43:00,billing,low,resolved,Is het mogelijk om een gedetailleerde overzichtsfactuur te ontvangen? De huidige is iets te summier voor onze administratie.
+TICK_00369,CUST_114,2024-07-07T12:38:00,Account Management,medium,resolved,Mijn wachtwoord werkt niet meer en ik kan geen resetlink ontvangen. Is er een probleem met het systeem?
+TICK_00370,CUST_059,2024-09-28T15:20:00,Facturatie,low,open,"Betalingen worden niet doorgevoerd en we hebben een belangrijke deadline morgen voor de financiële administratie. Het hele team staat hierdoor stil, graag spoedig oplossen."
+TICK_00371,CUST_088,2024-09-05T15:07:00,account,medium,open,"Ik krijg een foutmelding bij het inloggen met mijn bedrijfsaccount, kunt u dit voor me nakijken?"
+TICK_00372,CUST_015,2024-08-11T18:38:00,Login,low,in_progress,Ik kom niet binnen omdat mijn twee-factor verificatie niet meer geaccepteerd wordt. Heb geprobeerd via back-upcodes in te loggen maar die werken ook niet.
+TICK_00373,CUST_046,2024-09-21T10:02:00,general,low,open,Wat zijn de standaard reactietijden als ik een supportvraag indiende? Ik hoor graag wat ik kan verwachten.
+TICK_00374,CUST_103,2024-09-23T18:06:00,invoice,low,resolved,Is het mogelijk om factuurkopieën automatisch naar onze financiële administratie te mailen? Dat zou het werk vergemakkelijken.
+TICK_00375,CUST_023,2024-07-29T13:33:00,Facturatie,high,closed,Er lijkt een fout te zijn in de laatste factuur; het bedrag klopt niet en dit heeft urgente aandacht nodig.
+TICK_00376,CUST_091,2024-07-26T14:54:00,technical,high,resolved,"De integratie met onze CRM werkt helemaal niet meer sinds vanochtend. Dit blokkeert onze processen, graag spoed!"
+TICK_00377,CUST_013,2024-08-07T17:44:00,account,low,in_progress,"Mijn account is geblokkeerd omdat de 2FA code steeds verkeerd wordt bevonden. Ik heb mijn authenticatie-app opnieuw ingesteld, maar dit lost het probleem niet op."
+TICK_00378,CUST_099,2024-07-07T11:17:00,Bug,medium,resolved,Sinds de laatste update werkt de synchronisatie met onze kalender niet meer correct.
+TICK_00379,CUST_054,2024-08-05T13:41:00,Tech,high,resolved,Direct na inloggen wordt ik uitgelogd zonder foutmelding. Dit gebeurt meerdere keren per dag en onderbreekt mijn werk.
+TICK_00380,CUST_087,2024-09-09T08:29:00,general,medium,open,Kunnen jullie meer uitleg geven over de nieuwe functies die recent zijn toegevoegd aan de software?
+TICK_00381,CUST_120,2024-09-27T12:44:00,technical,low,in_progress,"De applicatie start wat traag op, maar dat is geen probleem zolang het verder stabiel blijft."
+TICK_00382,CUST_093,2024-09-04T18:52:00,technical,medium,open,Niet werkend. Wat nu?
+TICK_00383,CUST_101,2024-07-30T09:24:00,technical,low,resolved,Is het normaal dat het synchroniseren van data meerdere minuten duurt? Soms lijkt het proces te blijven hangen.
+TICK_00384,CUST_097,2024-09-24T16:14:00,account,low,in_progress,Ik kan mijn wachtwoord niet resetten via de gebruikelijke link; is er een alternatieve manier om weer toegang te krijgen?
+TICK_00385,CUST_002,2024-07-25T14:35:00,,medium,resolved,"Er lijkt een bug te zijn bij het uploaden van bestanden, het uploadproces stopt abrupt."
+TICK_00386,CUST_024,2024-07-05T09:38:00,Account Management,high,resolved,"Mijn account is niet gekoppeld aan ons nieuwe e-mailadres, graag even aanpassen zodat ik weer alle notificaties ontvang."
+TICK_00387,CUST_066,2024-08-09T15:01:00,overig,medium,open,Ik ben benieuwd of er binnenkort integraties komen met andere zakelijke tools zoals Slack of Teams.
+TICK_00388,CUST_116,2024-08-03T10:15:00,General,medium,resolved,Kan ik automatisch notificaties instellen voor belangrijke updates binnen onze projecten? Dat zou ons erg helpen.
+TICK_00389,CUST_114,2024-08-08T08:02:00,Billing,low,resolved,Ik zie dat mijn laatste factuur wat hoger uitvalt dan gewoonlijk. Kunnen jullie dit controleren?
+TICK_00390,CUST_009,2024-08-10T08:03:00,account,medium,resolved,Kan mijn account gekoppeld worden aan een andere e-mail zonder dat ik mijn instellingen verlies?
+TICK_00391,CUST_065,2024-09-01T15:10:00,General,medium,resolved,Ik vroeg mij af of er een overzicht is van alle recente updates in de software? Dat helpt ons om interne communicatie te stroomlijnen.
+TICK_00392,CUST_016,2024-09-08T13:34:00,,low,resolved,Zijn er plannen om binnenkort een mobiele app uit te brengen?
+TICK_00393,CUST_007,2024-09-16T17:38:00,account,low,open,"Het gebruikersbeheer vertoont onregelmatigheden bij het toewijzen van rollen, wat leidt tot ongewenste toegangsniveaus. Dit is een aandachtspunt in het kader van onze compliance-eisen. Uw terugkoppeling wordt op prijs gesteld."
+TICK_00394,CUST_054,2024-07-15T14:01:00,wens,medium,closed,Een optie om aangepaste workflows te maken zou ons veel tijd besparen. Is deze feature al in ontwikkeling?
+TICK_00395,CUST_065,2024-07-10T15:11:00,billing,low,closed,Wanneer kunnen we de factuur voor het volgende kwartaal verwachten? We plannen onze budgetten graag ruim van tevoren.
+TICK_00396,CUST_057,2024-07-10T15:38:00,account,low,resolved,"Onze gebruikersbeheerfunctie werkt niet meer, waardoor nieuwe medewerkers niet kunnen worden toegevoegd. Dit blokkeert het hele team sinds vanochtend en moet echt vandaag opgelost worden."
+TICK_00397,CUST_075,2024-09-14T16:11:00,Technical Support,low,in_progress,Onze servers zijn opnieuw offline gegaan en het hele team kan niet verder met hun werkzaamheden. Dit is de tweede keer deze week en we moeten dit vandaag nog voor 17:00 opgelost zien te krijgen.
+TICK_00398,CUST_084,2024-09-04T13:05:00,General,high,in_progress,Onze klant is erg ontevreden over een issue met data synchronisatie; kunt u hier prioriteit aan geven? Het verstoort onze dienstverlening.
+TICK_00399,CUST_093,2024-08-18T18:50:00,General,low,open,Hoe kan ik mijn notificatie-instellingen aanpassen? Ik wil graag minder e-mails ontvangen.
+TICK_00400,CUST_029,2024-07-21T13:19:00,technical,medium,resolved,De software laadt erg traag de laatste dagen. Kunt u controleren of er serverproblemen zijn?
+TICK_00401,CUST_079,2024-07-28T10:48:00,billing,low,resolved,Ik zag dat mijn laatste factuur iets hoger was dan normaal. Kunt u dit voor me controleren alsjeblieft?
+TICK_00402,CUST_091,2024-08-31T15:13:00,invoice,medium,open,Kan ik een aanpassing aanvragen voor de facturatieperiode? Dit zou het voor ons veel overzichtelijker maken.
+TICK_00403,CUST_082,2024-09-25T12:58:00,,low,in_progress,Kan iemand uitleg geven over de nieuwe update? Vind het wat verwarrend zo.
+TICK_00404,CUST_014,2024-07-19T10:02:00,general,medium,resolved,Is er een handleiding beschikbaar die dieper ingaat op de integratie met andere tools zoals Slack of Teams?
+TICK_00405,CUST_014,2024-07-03T09:59:00,account,medium,closed,Kan ik mijn gebruikersnaam veranderen? The current one doesn’t match our corporate e-mail format and it causes issues.
+TICK_00406,CUST_108,2024-08-11T12:21:00,billing,medium,resolved,Ik merkte een discrepancy in my last invoice; could you please clarify the charges under 'Service Fees'? Dank je wel!
+TICK_00407,CUST_002,2024-08-03T13:48:00,general,medium,resolved,Kunnen jullie uitleg geven over de belangrijkste functies van de nieuwste update? Dit helpt ons team om beter te werken.
+TICK_00408,CUST_034,2024-09-13T09:02:00,wens,medium,in_progress,Zou het mogelijk zijn om een functie te ontwikkelen waarbij meerdere gebruikers tegelijk aan hetzelfde document kunnen werken?
+TICK_00409,CUST_058,2024-09-08T12:20:00,Account Management,high,open,Ik kan niet meer inloggen op mijn account en heb dringend toegang nodig. Kunnen jullie dit zo snel mogelijk oplossen?
+TICK_00410,CUST_015,2024-09-23T15:14:00,Account Management,low,resolved,Hoe kan ik mijn accountgegevens aanpassen? Ik vind de optie niet zo snel terug in het dashboard.
+TICK_00411,CUST_011,2024-09-14T12:40:00,technical,low,closed,"Ik ervaar af en toe een kleine vertraging bij het openen van het gebruikersmenu, verder geen problemen."
+TICK_00412,CUST_075,2024-09-18T09:26:00,Technical Support,medium,in_progress,"Na de recente update werkt de exportfunctie niet meer zoals verwacht, graag een oplossing hiervoor."
+TICK_00413,CUST_023,2024-09-27T13:05:00,feature,medium,in_progress,Graag meer flexibiliteit in rapportagefilters. Momenteel missen we enkele belangrijke parameters.
+TICK_00414,CUST_007,2024-07-11T16:47:00,Billing,low,closed,De facturering lijkt niet te corresponderen met het aantal actieve gebruikers in onze licentieovereenkomst. Dit veroorzaakt interne verwarring over kostenallocatie. Wilt u dit graag verifiëren?
+TICK_00415,CUST_081,2024-09-23T16:19:00,invoice,medium,in_progress,Kunt u me uitleggen waarom het factuurbedrag hoger is dan normaal deze maand?
+TICK_00416,CUST_044,2024-08-20T17:47:00,overig,low,resolved,Ik vroeg me af of er binnenkort updates gepland staan voor de mobiele app? Gebruik het vaak onderweg.
+TICK_00417,CUST_114,2024-08-17T12:47:00,technical,medium,open,Er lijkt een probleem te zijn met de koppeling naar onze boekhoudsoftware die sinds gisteren niet meer werkt.
+TICK_00418,CUST_033,2024-09-24T14:21:00,Feature Request,medium,open,Het zou fijn zijn als we een optie krijgen voor het automatisch taggen van taken op basis van inhoud.
+TICK_00419,CUST_018,2024-08-26T16:45:00,account,low,in_progress,"Ik wil mijn profielfoto en contactinformatie bijwerken, maar zie geen optie hiervoor in mijn instellingen."
+TICK_00420,CUST_007,2024-09-22T18:48:00,technical,low,open,"We constateren een vertraging in het laden van de dashboarddata sinds de laatste update. Hoewel het probleem niet acuut is, merken onze teams dat het de workflow vertraagt. Graag uw terugkoppeling om de impact te beperken."
+TICK_00421,CUST_089,2024-09-14T14:02:00,feature_request,medium,open,Zou het mogelijk zijn om een integratie met onze bestaande CRM-software toe te voegen? Dat zou ons werk aanzienlijk vereenvoudigen.
+TICK_00422,CUST_030,2024-08-17T14:29:00,Login,low,resolved,"Accounttoegang is geblokkeerd sinds vanochtend, waardoor essentiële werkzaamheden stil liggen. We hebben dit gisteren ook al gemeld zonder reactie, graag dit dringend fixen."
+TICK_00423,CUST_033,2024-08-05T14:32:00,feature_request,medium,resolved,"Ik had dit al eerder gemeld, maar nog geen reactie ontvangen over het toevoegen van een exportfunctie naar Excel."
+TICK_00424,CUST_107,2024-07-14T10:16:00,Login,high,in_progress,Mijn account is geblokkeerd na meerdere mislukte inlogpogingen. Dit moeten we vandaag nog oplossen vanwege dringende taken.
+TICK_00425,CUST_084,2024-08-11T09:23:00,Technical Support,low,resolved,"Er is een probleem met de 2FA authenticatie, de codes worden niet geaccepteerd. Ik heb de tijd op mijn telefoon gesynchroniseerd, maar nog steeds lukt het niet om in te loggen."
+TICK_00426,CUST_081,2024-08-24T16:28:00,Feature Request,high,resolved,"We missen een optie om bulkacties uit te voeren op onze klantendatabase, zou dit prioriteit kunnen krijgen?"
+TICK_00427,CUST_092,2024-08-14T08:11:00,wens,high,resolved,We hebben echt snel een optie nodig om rapporten automatisch te exporteren naar Excel. Dit is dringend voor onze maandelijkse rapportage!
+TICK_00428,CUST_060,2024-08-29T11:55:00,invoice,low,resolved,Ik wil graag weten hoe ik mijn betaalmethode kan wijzigen binnen mijn accountinstellingen.
+TICK_00429,CUST_019,2024-08-28T08:18:00,billing,medium,open,We hebben een vraag over de btw-tarieven die op onze facturen worden toegepast. Klopt dit met de huidige regelgeving?
+TICK_00430,CUST_041,2024-08-07T18:31:00,account,low,closed,Kan niet inloggen wegens een probleem met 2FA. Ik heb mijn mobiele telefoon vervangen en nu werkt de verificatiecode niet meer. Hoe kan ik dit oplossen?
+TICK_00431,CUST_063,2024-09-29T10:51:00,Bug,low,in_progress,"De mobiele versie werkt goed, maar pushmeldingen komen vertraagd binnen."
+TICK_00432,CUST_113,2024-08-18T13:13:00,technical,low,in_progress,"De interface werkt prettig, maar ik heb gemerkt dat notificaties soms niet verschijnen zoals verwacht."
+TICK_00433,CUST_032,2024-08-12T12:37:00,technical,low,resolved,"Het dashboard laadt langzamer dan normaal, maar het werkt nog steeds naar behoren. Is hier een bekende oorzaak van?"
+TICK_00434,CUST_091,2024-09-29T17:40:00,Technical Support,,in_progress,Na de laatste update werkt het synchroniseren met onze kalender niet meer goed.
+TICK_00435,CUST_111,2024-08-05T08:00:00,billing,medium,resolved,Kunnen jullie uitleg geven over de btw-kosten die op onze laatste factuur staan? Ik wil dit graag afstemmen met onze boekhouding.
+TICK_00436,CUST_103,2024-09-29T13:04:00,Billing,medium,resolved,Graag ontvang ik meer uitleg over de extra kosten die op onze laatste factuur staan. Kunnen jullie dat specificeren?
+TICK_00437,CUST_104,2024-08-09T16:25:00,billing,low,closed,"Goedemiddag, ik heb een vraag over de laatste factuur die we ontvangen hebben. Kan ik wat meer uitleg krijgen over de specificaties?"
+TICK_00438,CUST_101,2024-07-20T10:11:00,account,medium,closed,"Ik wil mijn bedrijfsgegevens in mijn profiel bijwerken, maar krijg een foutmelding bij het opslaan."
+TICK_00439,CUST_029,2024-08-10T11:41:00,general,medium,resolved,We hebben een paar vragen over het privacybeleid van Pippify en hoe onze data precies wordt beschermd.
+TICK_00440,CUST_033,2024-07-15T11:01:00,Billing,high,resolved,Er lijkt een fout te zijn gemaakt bij het factureren; het bedrag is hoger dan afgesproken en we willen dit zo snel mogelijk rechtzetten.
+TICK_00441,CUST_030,2024-09-01T08:24:00,technical,low,open,Ik merk dat de software soms traag reageert bij het laden van rapporten. Is hier een oplossing voor?
+TICK_00442,CUST_070,2024-08-20T09:23:00,Technical Support,low,closed,"Herkent u dat er soms een lichte vertraging optreedt bij het genereren van dashboards? Dit hoeft niet urgent, maar we wilden het melden."
+TICK_00443,CUST_098,2024-07-19T17:43:00,account,high,closed,"Ik word geblokkeerd bij het inloggen ondanks correct wachtwoord. Dit vertraagt ons werk behoorlijk, graag spoedige assistentie."
+TICK_00444,CUST_084,2024-09-23T18:53:00,billing,low,open,Kunt u bevestigen dat de facturatiegegevens voor dit kwartaal kloppen? Ik wil dit graag afstemmen met onze administratie.
+TICK_00445,CUST_001,2024-07-21T14:41:00,general,high,closed,"Onze servercommunicatie met Pippify verloopt slecht, waardoor realtime data niet beschikbaar is. Dit is erg urgent."
+TICK_00446,CUST_095,2024-08-24T18:05:00,wens,low,resolved,Would it be possible om een optie toe te voegen voor automatische backups binnen de app? Dat zou ons veel tijd besparen.
+TICK_00447,CUST_044,2024-08-12T14:44:00,account,high,resolved,Mijn account is geblokkeerd en ik heb dringend toegang nodig om mijn werk af te ronden. Graag spoedig hulp!
+TICK_00448,CUST_018,2024-08-13T16:23:00,general,medium,closed,Zou het mogelijk zijn om een demo te krijgen van de nieuwe functionaliteiten die aangekondigd zijn?
+TICK_00449,CUST_019,2024-08-17T18:26:00,Bug,low,resolved,Ik meld dit nogmaals omdat mijn software blijft vastlopen bij het opslaan van documenten.
+TICK_00450,CUST_071,2024-09-26T18:51:00,Bug,low,in_progress,Sinds de laatste update duurt het inloggen flink langer dan normaal. Is hier een oplossing voor in de maak?
+TICK_00451,CUST_095,2024-08-06T15:14:00,Tech,medium,resolved,Sinds de laatste update loopt de software soms vast bij het openen van rapporten. Graag een check.
+TICK_00452,CUST_002,2024-09-27T10:34:00,Billing,high,open,Er lijkt een dubbele betaling op mijn factuur te staan. Graag spoedige correctie en bevestiging van de juiste status.
+TICK_00453,CUST_040,2024-09-14T10:40:00,Tech,medium,in_progress,Soms verdwijnen ingevoerde gegevens onverwacht; dit lijkt een fout in de software.
+TICK_00454,CUST_015,2024-08-06T17:13:00,wens,low,resolved,"Het zou handig zijn als we notities bij klantenprofielen kunnen toevoegen, zodat ons team beter samenwerkt."
+TICK_00455,CUST_081,2024-07-15T13:22:00,,low,closed,"Ik vroeg me af of iemand kan helpen met het instellen van mijn dashboard, ik kom er niet uit."
+TICK_00456,CUST_077,2024-08-17T09:43:00,technical,medium,open,"De software lukt het niet om sommige bestanden te uploaden, dit gebeurt onregelmatig en belemmert onze workflow."
+TICK_00457,CUST_103,2024-09-05T15:22:00,technical,low,in_progress,"De software reageert niet meer op API-aanvragen, wat de productie stillegt. Dit is enorm urgent omdat we voor het einde van de dag deze data moeten verwerken."
+TICK_00458,CUST_060,2024-07-14T15:32:00,feature_request,medium,in_progress,Het zou handig zijn als de software een optie had voor aangepaste gebruikersrollen. Is dit iets wat in ontwikkeling is?
+TICK_00459,CUST_015,2024-07-18T14:49:00,Technical Support,medium,closed,"De verbinding met de API lijkt instabiel, en soms krijg ik een timeout error bij het synchroniseren van data."
+TICK_00460,CUST_018,2024-07-31T17:20:00,Facturatie,medium,open,De gerapporteerde kosten wijken af van onze verwachtingen. Kunt u de specificaties opnieuw verstrekken?
+TICK_00461,CUST_103,2024-09-06T16:58:00,Account Management,high,open,"Ik kan niet meer inloggen op mijn account, ondanks dat ik het juiste wachtwoord gebruik. Dit is erg urgent."
+TICK_00462,CUST_032,2024-07-23T14:01:00,general,high,in_progress,Ik heb een dringende vraag over de beveiligingsmaatregelen rond onze data binnen Pippify. Kunnen we dit spoedig bespreken?
+TICK_00463,CUST_059,2024-09-17T18:33:00,General,medium,open,Kunt u me meer vertellen over de mogelijkheden voor integraties met andere CRM-systemen die Pippify ondersteunt?
+TICK_00464,CUST_071,2024-08-01T18:48:00,feature_request,high,resolved,Wij hebben echt een noodzaak om prioriteit te krijgen voor een mobiele app versie; veel van ons team werkt onderweg en mist toegang.
+TICK_00465,CUST_087,2024-09-22T18:25:00,billing,low,open,Ik zag dat er extra kosten op de laatste factuur staan. Ik zou graag een uitleg ontvangen over deze kosten.
+TICK_00466,CUST_109,2024-09-29T15:28:00,technical,high,in_progress,"Het systeem weigert om nieuwe projecten aan te maken, wat onze planning blokkeert. We hebben direct hulp nodig."
+TICK_00467,CUST_119,2024-09-20T16:38:00,Facturatie,medium,open,"Er lijkt een fout te staan op de factuur van deze maand, zou u deze kunnen controleren en waar nodig aanpassen?"
+TICK_00468,CUST_086,2024-09-12T11:46:00,feature,medium,open,Het zou fijn zijn als er een optie komt om meerdere gebruikers tegelijk aan projecten toe te wijzen. Dat scheelt dubbel werk.
+TICK_00469,CUST_025,2024-07-19T16:24:00,,low,resolved,Ik kan niet vinden waar ik rapporten kan exporteren. Iemand tips?
+TICK_00470,CUST_061,2024-08-29T12:43:00,Bug,low,in_progress,Kan iemand me uitleggen hoe ik het beste back-ups kan maken van onze data binnen Pippify?
+TICK_00471,CUST_011,2024-08-20T13:41:00,Login,medium,open,Mijn accountinstellingen lijken gewijzigd zonder dat ik dat gedaan heb. Is er een log vanuit jullie systeem beschikbaar?
+TICK_00472,CUST_064,2024-08-07T14:58:00,Bug,low,closed,Technische storingen zorgen ervoor dat onze database onbereikbaar is en we verliezen cruciale data. Dit is de tweede keer deze week en we moeten dit voor morgen oplossen.
+TICK_00473,CUST_004,2024-08-21T14:43:00,billing,medium,open,We missen een regelmatige factuuroverzicht via e-mail. Is dat in te stellen?
+TICK_00474,CUST_037,2024-09-03T18:27:00,Account Management,low,resolved,"Ik kan momenteel niet inloggen op mijn account, maar er is geen foutmelding. Wat raden jullie aan als eerste stap?"
+TICK_00475,CUST_076,2024-09-02T18:34:00,Tech,medium,open,"Sinds de laatste update loopt de software af en toe vast, wat het werk vertraagt. Kunnen jullie hiernaar kijken?"
+TICK_00476,CUST_012,2024-08-08T08:18:00,general,low,resolved,"Hallo, ik probeer in te loggen maar mijn 2FA werkt niet zoals het hoort. De codes die mijn authenticatie-app genereert, worden steeds afgewezen. Wat kan ik hieraan doen?"
+TICK_00477,CUST_061,2024-08-23T16:58:00,feature,medium,in_progress,Het zou geweldig zijn als jullie een integratie met ons CRM-systeem konden toevoegen. Dat scheelt ons veel handmatig werk.
+TICK_00478,CUST_048,2024-09-24T18:05:00,Tech,medium,in_progress,Sinds kort werkt het zoeken in de database minder snel dan voorheen. Hebben jullie hier zicht op?
+TICK_00479,CUST_045,2024-07-20T17:57:00,feature,medium,resolved,Zou het mogelijk zijn om een functie toe te voegen waarmee we rapporten automatisch kunnen exporteren naar Excel? Dat zou veel tijd besparen.
+TICK_00480,CUST_104,2024-09-02T08:08:00,feature_request,high,in_progress,We missen dringend een real-time notificatiefunctie voor belangrijke systeemmeldingen. Dit is prioriteit hoog!
+TICK_00481,CUST_097,2024-07-12T11:43:00,Technical Support,low,closed,"De melding over verlopen sessies blijft te vaak opduiken, wat toch wel lastig is tijdens het werken."
+TICK_00482,CUST_002,2024-09-22T10:04:00,Feature Request,medium,in_progress,Is het mogelijk om een extra filteroptie toe te voegen aan de zoekfunctie voor projecten?
+TICK_00483,CUST_079,2024-09-29T08:15:00,invoice,medium,resolved,Kunnen jullie de factuur voor deze maand nogmaals toesturen? De betaling is onderweg.
+TICK_00484,CUST_033,2024-09-26T17:51:00,billing,medium,open,"We hebben vragen over de maandelijkse kosten en de opties voor een aangepast abonnement, kunt u ons informeren?"
+TICK_00485,CUST_097,2024-08-31T11:44:00,billing,high,in_progress,"Onze betaling lijkt vertraagd door onduidelijke factuurgegevens, graag spoedig contact hierover."
+TICK_00486,CUST_112,2024-09-07T16:51:00,General,high,in_progress,"Ons systeem ligt er nu uit en we kunnen geen werkzaamheden uitvoeren, dit heeft hoge prioriteit, graag directe assistentie."
+TICK_00487,CUST_012,2024-08-10T09:15:00,,medium,resolved,"Het systeem werkt vandaag traag, kan dit worden nagekeken?"
+TICK_00488,CUST_119,2024-07-30T16:47:00,Feature Request,medium,resolved,Zou het mogelijk zijn om een exportfunctie toe te voegen die direct naar Excel kan exporteren? Dat zou ons werk een stuk makkelijker maken.
+TICK_00489,CUST_093,2024-09-24T13:04:00,technical,medium,open,Wanneer worden de geplande onderhoudswerkzaamheden uitgevoerd? Dit heeft invloed op onze workflows.
+TICK_00490,CUST_039,2024-07-29T16:18:00,,low,in_progress,Hoe kan ik extra gebruikers toevoegen aan ons account?
+TICK_00491,CUST_040,2024-08-09T17:39:00,general,high,open,"Er is een storing die veel gebruikers treft, kunt u daar snel iets aan doen? Het heeft impact op onze deadlines."
+TICK_00492,CUST_120,2024-08-26T11:05:00,technical,high,resolved,"Le système plante régulièrement lors de la connexion, surtout en fin de journée. Pouvez-vous résoudre ce problème au plus vite, s’il vous plaît?"
+TICK_00493,CUST_022,2024-08-03T16:48:00,technical,high,in_progress,"Onze teamleden ervaren frequente disconnecties, wat urgente aandacht vraagt om verstoringen te voorkomen."
+TICK_00494,CUST_035,2024-09-06T09:47:00,billing,medium,open,"Er lijkt een fout te staan in het BTW-tarief op onze factuur, graag een correctie."
+TICK_00495,CUST_073,2024-07-27T14:50:00,general,low,resolved,Zijn er stappenplannen beschikbaar voor het optimaal gebruiken van jullie nieuwe functies? Dat zou fijn zijn.
+TICK_00496,CUST_111,2024-08-15T12:21:00,Technical Support,medium,open,"De app geeft regelmatig foutmeldingen bij het uploaden van bestanden, dit vertraagt ons werk aanzienlijk."
+TICK_00497,CUST_044,2024-09-16T14:10:00,account,low,in_progress,Kan iemand mij uitleggen hoe ik mijn profielfoto kan aanpassen binnen ons bedrijfsaccount?
+TICK_00498,CUST_065,2024-07-08T15:08:00,billing,medium,resolved,"Onze betaling is goed verwerkt, maar de factuur is nog niet bijgewerkt in het systeem. Kan dit aangepast worden?"
+TICK_00499,CUST_054,2024-09-03T14:34:00,Facturatie,low,open,"De facturatiegegevens kloppen niet en dat heeft ertoe geleid dat een belangrijke klant dreigt weg te lopen. Ik had hier al eerder melding van gemaakt, graag spoedige afhandeling."
+TICK_00500,CUST_084,2024-07-20T14:11:00,General,medium,resolved,Kunt u toelichten wat de geplande verbeteringen zijn voor het komende kwartaal? Ik hoor het graag.

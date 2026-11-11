@@ -1,0 +1,51 @@
+ticket_id,message,category,priority,effort
+TICK_00362,De factuur die we gisteren ontvingen bevat dubbele kosten. Graag spoedig corrigeren.,billing,medium,medium
+TICK_00074,Mijn collega kan niet inloggen met zijn standaardgegevens; zouden jullie dit kunnen controleren?,account,high,medium
+TICK_00375,Er lijkt een fout te zijn in de laatste factuur; het bedrag klopt niet en dit heeft urgente aandacht nodig.,billing,high,medium
+TICK_00156,"De app werkt prima, maar soms duurt het laden van pagina’s wat langer dan verwacht.",technical,low,high
+TICK_00105,Ik heb een vraag over de factuur van deze maand; er lijken extra kosten berekend te zijn die ik niet kan verklaren. Kunt u dit controleren?,billing,medium,medium
+TICK_00395,Wanneer kunnen we de factuur voor het volgende kwartaal verwachten? We plannen onze budgetten graag ruim van tevoren.,billing,low,low
+TICK_00378,Sinds de laatste update werkt de synchronisatie met onze kalender niet meer correct.,technical,medium,high
+TICK_00125,Is er een kennisbank of handleiding beschikbaar waar ik zelf dingen kan opzoeken? Dat zou handig zijn.,general_question,low,low
+TICK_00069,Kan ik meerdere e-mailadressen aan mijn account koppelen zodat ik meldingen op verschillende inboxen ontvang?,account,low,low
+TICK_00451,Sinds de laatste update loopt de software soms vast bij het openen van rapporten. Graag een check.,technical,medium,high
+TICK_00010,"Er is een fout in de facturatiesoftware die het hele betalingsproces blokkeert. Dit leidt tot vertragingen en een klant die dreigt weg te lopen, graag spoedige oplossing voor vandaag.",technical,critical,high
+TICK_00195,Een functie voor het integreren van externe workflows via API zou onze efficiëntie sterk verbeteren.,feature_request,low,high
+TICK_00407,Kunnen jullie uitleg geven over de belangrijkste functies van de nieuwste update? Dit helpt ons team om beter te werken.,general_question,low,medium
+TICK_00085,Een suggestie: kunnen jullie een integratie toevoegen met onze kalenderapplicatie? Dat zou de planning eenvoudiger maken.,feature_request,low,high
+TICK_00372,Ik kom niet binnen omdat mijn twee-factor verificatie niet meer geaccepteerd wordt. Heb geprobeerd via back-upcodes in te loggen maar die werken ook niet.,account,high,medium
+TICK_00389,Ik zie dat mijn laatste factuur wat hoger uitvalt dan gewoonlijk. Kunnen jullie dit controleren?,billing,low,medium
+TICK_00496,"De app geeft regelmatig foutmeldingen bij het uploaden van bestanden, dit vertraagt ons werk aanzienlijk.",technical,medium,medium
+TICK_00031,Hoe wijzig ik mijn accountgegevens zoals e-mail en wachtwoord?,account,low,low
+TICK_00317,"De blokkade van mijn account is onacceptabel en zorgt voor grote problemen. Ik eis directe actie en verwacht binnen 24 uur een oplossing, anders stappen wij over naar een andere leverancier.",account,critical,medium
+TICK_00409,Ik kan niet meer inloggen op mijn account en heb dringend toegang nodig. Kunnen jullie dit zo snel mogelijk oplossen?,account,high,medium
+TICK_00491,"Er is een storing die veel gebruikers treft, kunt u daar snel iets aan doen? Het heeft impact op onze deadlines.",technical,high,high
+TICK_00492,"Le système plante régulièrement lors de la connexion, surtout en fin de journée. Pouvez-vous résoudre ce problème au plus vite, s’il vous plaît?",technical,high,high
+TICK_00281,De software crasht telkens wanneer ik een bestand probeer te uploaden. Dit moet met prioriteit worden opgelost!,technical,high,high
+TICK_00357,"De interface is over het algemeen gebruiksvriendelijk, maar soms hapert de pagina wisseling een beetje.",other,low,low
+TICK_00077,Tijdens het gebruik van rapportages krijg ik foutmeldingen die ik niet kan verklaren. Wat kan ik hieraan doen?,technical,medium,high
+TICK_00462,Ik heb een dringende vraag over de beveiligingsmaatregelen rond onze data binnen Pippify. Kunnen we dit spoedig bespreken?,general_question,high,low
+TICK_00498,"Onze betaling is goed verwerkt, maar de factuur is nog niet bijgewerkt in het systeem. Kan dit aangepast worden?",billing,low,low
+TICK_00212,"Wat zijn de openingstijden van de klantenservice in het weekend? Niet dringend, ik plan gewoon vooruit.",general_question,low,low
+TICK_00102,Ik kan niet inloggen in ons account en heb dit gisteren al gemeld zonder reactie. Voor het begin van de werkdag morgen moeten mijn collega’s en ik toegang hebben.,account,high,medium
+TICK_00335,"Onze data export functie werkt niet meer sinds vanochtend, we hebben dit dringend nodig om rapportages te maken.",technical,high,high
+TICK_00476,"Hallo, ik probeer in te loggen maar mijn 2FA werkt niet zoals het hoort. De codes die mijn authenticatie-app genereert, worden steeds afgewezen. Wat kan ik hieraan doen?",account,high,medium
+TICK_00337,In de laatst ontvangen factuur is een onjuiste BTW-tarief toepassing opgetreden. Dit wijkt af van de geldende regels voor ons type contract. Graag uw correctie en bevestiging.,billing,low,medium
+TICK_00441,Ik merk dat de software soms traag reageert bij het laden van rapporten. Is hier een oplossing voor?,technical,low,high
+TICK_00174,Bij het uploaden van documenten verschijnt een foutmelding die ik niet kan plaatsen. Kunt u helpen?,technical,medium,medium
+TICK_00003,"We merken dat de software soms wat traag reageert, vooral tijdens het laden van rapporten. Is hier een bekende oorzaak voor?",technical,low,high
+TICK_00334,"Sinds de laatste update werkt het synchroniseren met onze CRM niet meer correct, dit veroorzaakt vertragingen in ons proces.",technical,medium,high
+TICK_00410,Hoe kan ik mijn accountgegevens aanpassen? Ik vind de optie niet zo snel terug in het dashboard.,account,low,low
+TICK_00071,Het zou handig zijn als jullie een exportfunctie toevoegen voor rapportages in CSV-formaat.,feature_request,low,high
+TICK_00210,We hebben dringend toegang nodig tot ons account; de wachtwoordreset werkt niet.,account,high,medium
+TICK_00064,Ik zou graag zien dat er een optie komt om standaard filters op te slaan binnen het dashboard. Zo hoeven we de filters niet steeds opnieuw in te stellen bij ieder gebruik.,feature_request,low,high
+TICK_00385,"Er lijkt een bug te zijn bij het uploaden van bestanden, het uploadproces stopt abrupt.",technical,medium,high
+TICK_00094,We hebben een dringende facturatiekwestie: er is een dubbele afschrijving gedaan en dit moet vandaag nog worden opgelost.,billing,high,low
+TICK_00486,"Ons systeem ligt er nu uit en we kunnen geen werkzaamheden uitvoeren, dit heeft hoge prioriteit, graag directe assistentie.",technical,critical,high
+TICK_00186,Waar kan ik het beste feedback geven over de gebruiksvriendelijkheid van het dashboard?,general_question,low,low
+TICK_00034,Klopt het dat er vandaag gepland onderhoud is? Ik merk dat sommige functies tijdelijk niet beschikbaar zijn.,technical,medium,high
+TICK_00078,"Sinds de laatste update ervaart onze afdeling vertraging bij het laden van dashboards, is hier een oplossing voor?",technical,low,high
+TICK_00001,Een optie om gebruikersrechten per project toe te wijzen zou onze workflow verbeteren.,feature_request,low,high
+TICK_00012,"De exportfunctie werkt niet zoals verwacht, met name bij grote datasets is dit problematisch.",technical,medium,high
+TICK_00416,Ik vroeg me af of er binnenkort updates gepland staan voor de mobiele app? Gebruik het vaak onderweg.,feature_request,low,low
+TICK_00023,Kunnen jullie aangeven of er aanstaande wijzigingen in de gebruikersvoorwaarden zijn? Ik wil graag goed geïnformeerd blijven.,general_question,low,low
